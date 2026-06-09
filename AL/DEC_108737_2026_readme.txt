@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 108737
+
+**2. Data e Estado:** 2026-05-26, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede anistia ou remissão de crédito tributário relativo ao ICMS, decorrente da complementação da diferença da alíquota interna, referente ao estoque de mercadorias sujeitas ao regime de antecipação do recolhimento do ICMS com encerramento de tributação e ao regime de substituição tributária.
+
+**4. Problemas Encontrados:** Nenhum problema significativo foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado como anormal.
+
+**6. Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 1
+- **Incisos:** 2
+- **Anexos:** 0
