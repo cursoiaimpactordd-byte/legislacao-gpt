@@ -1,0 +1,23 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 108228
+
+**2. Data e Estado:** 2026-04-30, Estado de Alagoas
+
+**3. Ementa Resumida:** Estabelece o valor máximo do veículo para fins da isenção do IPVA de veículo automotor de propriedade de pessoa com deficiência física, visual, mental severa ou profunda, síndrome de Down ou autista.
+
+**4. Problemas Encontrados:**
+
+- Não há problemas encontrados no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- O valor máximo do veículo para fins da isenção do IPVA é de R$ 70.000,00 (setenta mil reais).
+- A isenção parcial do IPVA é limitada à parcela da operação no valor de R$ 70.000,00 (setenta mil reais).
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 2
+- Incisos: 3
+- Anexos: 0
