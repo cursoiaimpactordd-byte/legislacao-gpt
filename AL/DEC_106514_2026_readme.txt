@@ -1,0 +1,7 @@
+Relatório de Parsing:
+1. Tipo: Decreto, Número: 106514
+2. Data: 2026-01-22, Estado: Alagoas
+3. Ementa resumida: Convalidação de procedimentos para operações com leite in natura
+4. Problemas encontrados: Nenhum
+5. Trechos: [VERIFICAR] - não aplicável
+6. Contagem: 2 artigos, 1 parágrafo, 0 incisos, 0 anexos
