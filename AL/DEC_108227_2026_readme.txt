@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 108227
+
+**Data e Estado:** 2026-04-30, Estado de Alagoas
+
+**Ementa Resumida:** Altera o Regulamento do ICMS para implementar disposições da Lei Estadual nº 9.776, de 22 de dezembro de 2025.
+
+**Problemas Encontrados:**
+
+- Ausência de informações sobre a motivação da alteração do Regulamento do ICMS.
+- Falta de clareza sobre as disposições da Lei Estadual nº 9.776, de 2025, que serão implementadas.
+
+**Trechos [VERIFICAR]:**
+
+- Art. 1º, inciso I, caput do art. 691: "Aplica-se à operação com veículo usado: I - isenção, nos termos do item 99 da Parte I do Anexo I deste Regulamento; e II - redução de base de cálculo, nos termos do item 1 do Anexo II deste Regulamento."
+- Art. 2º, item 99 à Parte I do Anexo I: "A saída interna de veículo usado pertencente a estabelecimento comercial que tenha por atividade econômica a comercialização de veículo, desde que este seja o real remetente da mercadoria (Lei nº 9.776, de 2025)."
+
+**Contagem:**
+
+- Artigos: 2
+- Parágrafos: 6
+- Incisos: 10
+- Anexos: 2
