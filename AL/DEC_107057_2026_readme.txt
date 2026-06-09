@@ -1,0 +1,21 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 107057
+
+**2. Data e Estado:** 2026-02-25, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa Morros Empreendimentos Ltda.
+
+**4. Problemas Encontrados:** Não foram encontrados problemas significativos no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- O Decreto é baseado na Lei Estadual nº 5.671, de 1º de fevereiro de 1995, e no Decreto Estadual nº 38.394, de 24 de maio de 2000.
+- A empresa Morros Empreendimentos Ltda. perderá os benefícios concedidos caso venha a infringir as normas estabelecidas na legislação que rege a matéria.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 0
+- Incisos: 0
+- Anexos: 0
