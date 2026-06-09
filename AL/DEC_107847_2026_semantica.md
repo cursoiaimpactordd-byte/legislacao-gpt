@@ -1,0 +1,97 @@
+# Mapa Semântico para RAG — Decreto nº 107847/2026 — ALAGOAS
+
+## Metadados do Mapa
+- Documento: Decreto nº 107847/2026 — ALAGOAS
+- Tipo: normativo
+- Unidades citáveis identificadas: Art., §, Incisos
+- Total de temas: 2
+
+## Taxonomia de Temas
+[1] Tema 1: Organização e Funcionamento do Tribunal Administrativo de Tributos Estaduais (TATE)
+[2] Tema 2: Alterações no Decreto Estadual nº 106.578/2026
+
+## Mapa por Tema
+
+### [1] Organização e Funcionamento do Tribunal Administrativo de Tributos Estaduais (TATE)
+**Onde na norma:** Art. 1º
+**Regras principais:**
+- Regra 1: O Anexo Único do Decreto Estadual nº 106.578/2026 passa a vigorar com as seguintes alterações.
+- Regra 2: Os membros fazendários do TATE são designados.
+**Exceções/Condições:**
+- Exceção: Não identificadas
+**Perguntas típicas para recuperação:**
+- Pergunta 1: Quais são os membros fazendários do TATE?
+**Temas relacionados:** [1] Alterações no Decreto Estadual nº 106.578/2026
+**Tags de busca:** TATE, Tribunal Administrativo de Tributos Estaduais, membros fazendários
+
+### [2] Alterações no Decreto Estadual nº 106.578/2026
+**Onde na norma:** Art. 1º
+**Regras principais:**
+- Regra 1: O Anexo Único do Decreto Estadual nº 106.578/2026 passa a vigorar com as seguintes alterações.
+- Regra 2: Os membros fazendários do TATE são designados.
+**Exceções/Condições:**
+- Exceção: Não identificadas
+**Perguntas típicas para recuperação:**
+- Pergunta 1: Quais são as alterações no Decreto Estadual nº 106.578/2026?
+**Temas relacionados:** [1] Organização e Funcionamento do Tribunal Administrativo de Tributos Estaduais (TATE)
+**Tags de busca:** Decreto Estadual nº 106.578/2026, alterações, TATE
+
+## Índice de Remissões Bidirecionais
+Tema: [1] Organização e Funcionamento do Tribunal Administrativo de Tributos Estaduais (TATE) ↔ Tema: [2] Alterações no Decreto Estadual nº 106.578/2026 — motivo: O Decreto Estadual nº 106.578/2026 é alterado para designar os membros fazendários do TATE.
+
+## Índice de Anexos e Tabelas
+- Anexo Único: Lista dos membros fazendários do TATE.
+
+DOCUMENTO:
+```yml
+---
+tipo: Decreto
+numero: 107847
+ano: 2026
+estado: Alagoas
+ementa: Altera o Decreto Estadual nº 106.578, de 28 de janeiro de 2026, que designa os membros do Tribunal Administrativo de Tributos Estaduais (TATE).
+vigencia: 2026-04-08
+---
+
+# Decreto nº 107847
+
+## Art. 1º
+
+O Anexo Único do Decreto Estadual nº 106.578, de 28 de janeiro de 2026, passa a vigorar com as seguintes alterações:
+
+### ANEXO ÚNICO
+
+#### MEMBROS FAZENDÁRIOS DO TATE
+
+#### 1ª CÂMARA
+
+| NOME | CARGO | CPF | FUNÇÃO |
+| --- | --- | --- | --- |
+| Elka Gonçalves Lima de Oliveira | Presidente | 024.401.274-18 | Auditora Fiscal da Receita Estadual |
+| Marcos José Dattoli de Souza | Julgador Titular | 637.907.775-87 | Auditor Fiscal da Receita Estadual |
+| Márcia Maria Barros Barbosa | Julgador Suplente | 662.857.204-87 | Auditora Fiscal da Receita Estadual |
+| Ivan Chaves de Almeida | Julgador Titular | 769.904.193-34 | Auditor Fiscal da Receita Estadual |
+| Ronaldo Rodrigues da Silva | Julgador Suplente | 208.569.544-20 | Auditor Fiscal da Receita Estadual |
+
+#### 2ª CÂMARA
+
+| NOME | CARGO | CPF | FUNÇÃO |
+| --- | --- | --- | --- |
+| José Edson Lima e Silva | Presidente | 482.681.904-49 | Auditor Fiscal da Receita Estadual |
+| Jacque Damasceno Pereira Júnior | Julgador Titular | 007.898.294-44 | Auditor Fiscal da Receita Estadual |
+| Daniel Teixeira dos Santos | Julgador Suplente | 744.672.634-20 | Auditor Fiscal da Receita Estadual |
+| Mario Sergio Martins de Castro | Julgador Titular | 843.037.514-72 | Auditor Fiscal da Receita Estadual |
+| Eduardo Egypto Rosa Bastos | Julgador Suplente | 004.666.497-11 | Auditor Fiscal da Receita Estadual |
+
+## Art. 2º
+
+Este Decreto entra em vigor na data de sua publicação.
+
+### PALÁCIO REPÚBLICA DOS PALMARES
+
+em Maceió, 7 de abril de 2026, 210º da Emancipação Política e 138º da República.
+
+### PAULO SURUAGY DO AMARAL DANTAS
+
+Governador
+```
