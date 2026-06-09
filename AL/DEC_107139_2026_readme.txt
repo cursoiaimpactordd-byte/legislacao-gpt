@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 107139
+
+**2. Data e Estado:** 2026-03-02, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa Merconplas Industrial de Plásticos Comércio LTDA.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Concede incentivo fiscal ao Merconplas Industrial de Plásticos Comércio LTDA.
+- Art. 2º: A empresa perderá os benefícios caso infrinja as normas estabelecidas.
+- Art. 3º: SEDICS e SEFAZ adotarão procedimentos operacionais para execução do Decreto.
+- Art. 4º: Utilização dos benefícios fiscais a partir do mês subsequente à publicação.
+- Art. 5º: Prazo de duração dos benefícios fiscais.
+- Art. 6º: Decreto entra em vigor na data de sua publicação.
+- Art. 7º: Revogam-se as disposições em contrário.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 0
+- Incisos: 7
+- Anexos: 0
