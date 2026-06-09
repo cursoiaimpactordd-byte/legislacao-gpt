@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 107061
+
+**2. Data e Estado:** 2026-02-25, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa Laticínios Santa Maria LTDA.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 1
+- Incisos: 7
+- Anexos: 0
+
+**Observações:**
+
+- O documento é um decreto estadual que concede incentivos fiscais à empresa Laticínios Santa Maria LTDA.
+- O decreto foi publicado no Diário Oficial do Estado de Alagoas (DOE) em 26 de fevereiro de 2026.
+- O decreto entra em vigor na data de sua publicação.
