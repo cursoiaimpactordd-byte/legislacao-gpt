@@ -1,0 +1,21 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Instrução Normativa nº 6
+
+**Data e Estado:** 06 de março de 2026, Estado de Alagoas
+
+**Ementa Resumida:** Altera a Instrução Normativa SURE Nº 24/2025, estabelecendo valores para cálculo do ICMS devido por substituição tributária e antecipação do imposto em operações com cerveja, chope, refrigerante e outros produtos.
+
+**Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**Trechos [VERIFICAR]:**
+
+- Alteração da Instrução Normativa SURE Nº 24/2025, adicionando novos produtos e valores para cálculo do ICMS.
+- Inclusão de novos produtos na lista de produtos sujeitos ao ICMS, como cerveja em garrafa descartável e refrigerante em garrafa PET.
+
+**Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 10
+- Anexos: 1
