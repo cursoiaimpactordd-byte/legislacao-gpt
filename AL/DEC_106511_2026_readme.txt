@@ -1,0 +1,7 @@
+Relatório de Parsing:
+1. Tipo: Decreto, Número: 106511
+2. Data: 2026-01-22, Estado: Alagoas
+3. Ementa resumida: Altera o Decreto Estadual nº 25.370
+4. Problemas encontrados: Nenhum
+5. Trechos: Alteração do § 3º do art. 221 do Decreto Estadual nº 25.370
+6. Contagem: 3 artigos, 1 parágrafo, 2 incisos, 0 anexos
