@@ -1,0 +1,7 @@
+Relatório de Parsing:
+1. Tipo: Decreto, Número: 106528
+2. Data: 2026-01-26, Estado: Alagoas
+3. Ementa resumida: Estabelece calendário de pagamento dos servidores públicos civis e militares do Estado de Alagoas para 2026.
+4. Problemas encontrados: Nenhum
+5. Trechos: Calendário de pagamento no Anexo Único
+6. Contagem: 3 artigos, 1 parágrafo, 0 incisos, 1 anexo
