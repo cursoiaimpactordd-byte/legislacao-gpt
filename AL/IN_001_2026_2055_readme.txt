@@ -1,0 +1,27 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Instrução Normativa nº 1
+
+**Data e Estado:** 2026-03-17, Estado de Alagoas
+
+**Ementa Resumida:** Dispõe sobre os procedimentos de registro, execução e prestação de contas das emendas parlamentares, com vistas a conferir transparência e rastreabilidade na aplicação desses recursos no âmbito do Poder Executivo do Estado de Alagoas.
+
+**Problemas Encontrados:**
+
+- Implementação das emendas impositivas à Constituição do Estado de Alagoas
+- Alteração nos § 12 e 14 que altera do artigo 177 da Constituição do Estado de Alagoas
+- Previsibilidade das emendas parlamentares impositivas no PLOA
+- Regime de elaboração à execução das emendas individuais impositivas
+
+**Trechos [VERIFICAR]:**
+
+- Considerando a implementação das emendas impositivas à Constituição do Estado de Alagoas, conforme EC nº 42/2019;
+- Considerando a alteração nos § 12 e 14 que altera do artigo 177 da Constituição do Estado de Alagoas conforme a EC nº 52/2024;
+- Considerando, a previsibilidade das emendas parlamentares impositivas no PLOA, e seus regramentos em conformidade ao art. 177-A da Constituição Estadual, conforme a EC nº 47/2020;
+
+**Contagem:**
+
+- Artigos: 2
+- Parágrafos: 4
+- Incisos: 4
+- Anexos: 0
