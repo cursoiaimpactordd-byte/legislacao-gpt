@@ -1,0 +1,23 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Instrução Normativa nº 3
+
+**Data e Estado:** 2026-01-30, Estado de Alagoas
+
+**Ementa Resumida:** Submete o contribuinte D G ARTIGOS ESPORTIVOS E SUPLEMENTOS LTDA - ME a Regime Especial de Controle e Fiscalização.
+
+**Problemas Encontrados:**
+
+- O contribuinte deixou de recolher o ICMS por mais de 6 meses.
+- O contribuinte não se manifestou após tentativas de comunicação e diálogo institucional.
+
+**Trechos [VERIFICAR]:**
+
+- A análise dos trechos não foi realizada devido à falta de especificação.
+
+**Contagem:**
+
+- Artigos: 2
+- Parágrafos: 7
+- Incisos: 3
+- Anexos: 0
