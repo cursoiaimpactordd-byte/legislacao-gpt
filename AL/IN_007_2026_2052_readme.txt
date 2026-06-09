@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 7
+
+**2. Data e Estado:** 2026-03-18, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre a não aplicação do Regime Optativo de Tributação da Substituição Tributária - ROT-ST, no caso que especifica.
+
+**4. Problemas Encontrados:**
+
+- Divergência de entendimento entre o Fisco e parcela de contribuintes do segmento de cosméticos quanto à inclusão dos valores relativos à franquia na base de cálculo do imposto devido por substituição tributária.
+- Dificuldade no controle e exigência da diferença de imposto decorrente de utilização de base de cálculo presumida inferior pela não inclusão dos serviços de franquia na referida base de cálculo.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: O segmento de produtos de perfumaria e de higiene pessoal e cosméticos fica excluído do Regime Optativo de Tributação da Substituição Tributária - ROT-ST.
+- Parágrafo único: O contribuinte que tenha optado pelo ROT-ST fica automaticamente excluído do regime a partir de 1º de janeiro de 2027.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 2
+- Anexos: 1
