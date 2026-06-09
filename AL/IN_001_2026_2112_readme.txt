@@ -1,0 +1,23 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 1
+
+**2. Data e Estado:** 2026-01-19, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SEF nº 6, de 19 de janeiro de 2024, que divulga as alíquotas específicas do ICMS para fins de recolhimento ao Fundo Estadual de Combate e Erradicação da Pobreza - FECOEP.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:**
+
+- Alteração da alíquota modal para 20,5% a partir de 1º de abril de 2026.
+- Modificação da alíquota específica para o diesel e biodiesel.
+- Modificação da alíquota específica para o gás liquefeito de petróleo (GLP).
+- Modificação da alíquota específica para a gasolina e o etanol anidro combustível.
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 7
+- Incisos: 7
+- Anexos: 0
