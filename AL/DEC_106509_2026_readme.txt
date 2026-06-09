@@ -1,0 +1,7 @@
+Relatório de Parsing:
+1. Tipo: Decreto, Número: 106509
+2. Data: 2026-01-22, Estado: Alagoas
+3. Ementa resumida: Altera o Regulamento do ICMS para implementar disposições do Convênio ICMS nº 56
+4. Problemas encontrados: Nenhum
+5. Trechos: Convênio ICMS nº 56, Regulamento do ICMS
+6. Contagem: 2 artigos, 1 parágrafo, 0 incisos, 1 anexo
