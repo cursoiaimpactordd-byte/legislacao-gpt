@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 107848
+
+**Data e Estado:** 2026-04-07, Estado de Alagoas
+
+**Ementa Resumida:** Nomeia membros do Tribunal Administrativo de Tributos Estaduais - TATE.
+
+**Problemas Encontrados:** Nenhum problema encontrado.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+- Artigos: 2
+- Parágrafos: 4
+- Incisos: 2
+- Anexos: 1
