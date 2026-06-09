@@ -1,0 +1,25 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Instrução Normativa nº 4
+
+**Data e Estado:** 2026-01-30, Estado de Alagoas
+
+**Ementa Resumida:** Submete o contribuinte M. A. P. Tenório Comércio - ME ao Regime Especial de Controle e Fiscalização, nos termos da Lei nº 5.900, de 27 de dezembro de 1996.
+
+**Problemas Encontrados:**
+
+* O contribuinte deixou de recolher o ICMS por mais de 6 meses.
+* O contribuinte não se manifestou após tentativas de comunicação e diálogo institucional.
+* A conduta do contribuinte compromete a concorrência leal e desequilibra o mercado.
+
+**Trechos [VERIFICAR]:**
+
+* Art. 1º: Fica o contribuinte M. A. P. Tenório Comércio - ME submetido a Regime Especial de Controle e Fiscalização.
+* Art. 2º: O Regime Especial de Controle e Fiscalização consiste na adoção das seguintes medidas.
+
+**Contagem:**
+
+* Artigos: 2
+* Parágrafos: 7
+* Incisos: 5
+* Anexos: 0
