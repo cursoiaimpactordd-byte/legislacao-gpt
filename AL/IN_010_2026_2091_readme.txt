@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Instrução Normativa nº 10
+
+**Data e Estado:** 2026-02-20, Estado de Alagoas
+
+**Ementa Resumida:** Submete o contribuinte STAR MATERIAIS DE CONSTRUCAO LTDA ao Regime Especial de Controle e Fiscalização.
+
+**Problemas Encontrados:**
+
+* O contribuinte deixou de recolher o ICMS por mais de 6 meses.
+* O contribuinte não se manifestou após tentativas de comunicação e diálogo institucional.
+
+**Trechos [VERIFICAR]:**
+
+* Art. 1º: Fica o contribuinte STAR MATERIAIS DE CONSTRUCAO LTDA submetido a Regime Especial de Controle e Fiscalização.
+* Art. 2º: O Regime Especial de Controle e Fiscalização consiste na adoção das seguintes medidas.
+
+**Contagem:**
+
+* Artigos: 2
+* Parágrafos: 6
+* Incisos: 4
+* Anexos: 0
