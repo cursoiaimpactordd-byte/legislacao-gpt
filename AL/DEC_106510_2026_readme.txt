@@ -1,0 +1,7 @@
+Relatório de Parsing:
+1. Tipo: Decreto, Número: 106510
+2. Data: 2026-01-22, Estado: Alagoas
+3. Ementa: Altera o Regulamento do ICMS para conceder redução da base de cálculo do ICMS
+4. Problemas: Nenhum encontrado
+5. Trechos: Alteração do Anexo II do Regulamento do ICMS
+6. Contagem: 2 artigos, 1 parágrafo, 2 incisos, 0 anexos
