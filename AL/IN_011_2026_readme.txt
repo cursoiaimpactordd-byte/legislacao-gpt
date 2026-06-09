@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 11
+
+**2. Data e Estado:** 2026-04-28, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SURE Nº 24/2025, estabelecendo valores para ICMS devido por substituição tributária e antecipação do imposto em operações com cerveja, chope, refrigerante, bebidas hidroeletrolíticas e energéticas.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificar se os trechos indicados estão corretos.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 5
+- **Incisos:** 2
+- **Anexos:** 1
