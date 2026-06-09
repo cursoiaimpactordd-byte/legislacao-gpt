@@ -1,0 +1,22 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 24
+
+**2. Data e Estado:** 2026-04-23, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SEF nº 55, de 5 de setembro de 2025, que disciplina a concessão de recompensas no âmbito do Programa Contribuinte Arretado.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- Alterações na Instrução Normativa SEF nº 55, de 5 de setembro de 2025.
+- Adição de um novo parágrafo (§ 4º) ao art. 2º da Instrução Normativa SEF nº 55, de 2025.
+- Revogação do parágrafo único do art. 3º da Instrução Normativa SEF nº 55, de 5 de setembro de 2025.
+
+**6. Contagem:**
+
+- Artigos: 4
+- Parágrafos: 6
+- Incisos: 3
+- Anexos: 0
