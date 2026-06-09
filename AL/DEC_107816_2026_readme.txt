@@ -1,0 +1,25 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 107816
+
+**2. Data e Estado:** 2026-04-06, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre a prorrogação do prazo de fruição de incentivos e benefícios fiscais.
+
+**4. Problemas Encontrados:**
+
+- Ausência de informações sobre a justificativa para a prorrogação dos incentivos fiscais.
+- Falta de clareza sobre as condições para a prorrogação dos incentivos previstos nos arts. 1º e 2º.
+- Possível conflito entre o art. 3º e os arts. 1º e 2º.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Os incentivos fiscais de que trata a Lei Estadual nº 5.671, de 1º de fevereiro de 1995 e o Decreto Estadual nº 38.394, de 24 de maio de 2000, concedidos com data de vencimento anterior a 31 de dezembro de 2032, ficam prorrogados até a referida data.
+- Art. 2º: Os incentivos fiscais concedidos em razão da adesão prevista na cláusula décima terceira do Convênio ICMS 190/2017 vigorarão enquanto vigorar o respectivo incentivo objeto da adesão.
+
+**6. Contagem:**
+
+- Artigos: 5
+- Parágrafos: 8
+- Incisos: 16
+- Anexos: 0
