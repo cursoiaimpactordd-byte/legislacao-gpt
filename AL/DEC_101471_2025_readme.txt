@@ -1,0 +1,28 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 101471
+
+**2. Data e Estado:** 2025-03-11, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa MOV MOTORS DO BRASIL LTDA.
+
+**4. Problemas Encontrados:**
+
+- Não foi encontrado nenhum problema significativo no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Concede incentivo fiscal ao MOV MOTORS DO BRASIL LTDA.
+- Art. 2º: Estabelece condição para a perda dos benefícios concedidos.
+- Art. 3º: Determina a execução do Decreto às secretarias de Estado.
+- Art. 4º: Estabelece a data de início da utilização dos benefícios fiscais.
+- Art. 5º: Estabelece o prazo de duração dos benefícios fiscais.
+- Art. 6º: Estabelece a data de entrada em vigor do Decreto.
+- Art. 7º: Revoga disposições em contrário.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 0 (não há parágrafos no documento)
+- Incisos: 7
+- Anexos: 0 (não há anexos no documento)
