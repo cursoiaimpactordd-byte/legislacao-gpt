@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 675
+
+**2. Data e Estado:** 2026-04-06, Estado de Alagoas
+
+**3. Ementa Resumida:** Designa o Encarregado pelo Tratamento de Dados Pessoais (DPO) no âmbito da Secretaria de Estado da Fazenda de Alagoas - SEFAZ/AL.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 5
+- **Parágrafos:** 9
+- **Incisos:** 10
+- **Anexos:** 0
+
+**Observações:**
+
+- O documento é uma Portaria da Secretaria de Estado da Fazenda de Alagoas.
+- A Portaria designa o Encarregado pelo Tratamento de Dados Pessoais (DPO) no âmbito da SEFAZ/AL.
+- O documento foi republicado em 13/04/2026 devido a incorreção.
