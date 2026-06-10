@@ -1,0 +1,22 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 101051
+
+**2. Data e Estado:** 2025-02-04, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede incentivos fiscais e locacionais à empresa Vila Galé Brasil - Atividades Hotelerais Ltda.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- O Decreto foi publicado no DOE em 2025-02-05.
+- A empresa Vila Galé Brasil - Atividades Hotelerais Ltda. foi concedida o Incentivo Fiscal do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN.
+- A utilização dos benefícios fiscais passa a vigorar a partir do mês subsequente à publicação do Decreto.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 0
+- Incisos: 0
+- Anexos: 0
