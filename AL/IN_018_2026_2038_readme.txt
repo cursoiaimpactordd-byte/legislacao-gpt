@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Instrução Normativa nº 18
+
+**Data e Estado:** 31 de março de 2026, Estado de Alagoas
+
+**Ementa Resumida:** Altera a Instrução Normativa SEF nº 15, de 27 de julho de 2012, que relaciona as mercadorias e respectivas margens de valor agregado.
+
+**Problemas Encontrados:** Nenhum problema encontrado.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+* Artigos: 3
+* Parágrafos: 7
+* Incisos: 14
+* Anexos: 1
