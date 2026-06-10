@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 652
+
+**2. Data e Estado:** 2026-03-18, Estado de Alagoas
+
+**3. Ementa Resumida:** Publica os Índices Definitivos de Participação dos Municípios Alagoanos no produto da Arrecadação do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transportes Interestadual e Intermunicipal e de Comunicação (ICMS), a vigorar no exercício de 2026.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 5
+- **Incisos:** 2
+- **Anexos:** 1
