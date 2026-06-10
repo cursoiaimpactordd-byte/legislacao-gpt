@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 101470
+
+**2. Data e Estado:** 2025-03-11, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede incentivo locacional do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa AM COMERCIAL E DISTRIBUIDORA LTDA.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 5
+- Parágrafos: 6
+- Incisos: 5
+- Anexos: 0
+
+**Observações:**
+
+- O documento é um decreto estadual que concede incentivo locacional a uma empresa.
+- O decreto foi publicado no Diário Oficial do Estado de Alagoas (DOE/AL) em 12 de março de 2025.
+- O decreto entra em vigor na data de sua publicação.
