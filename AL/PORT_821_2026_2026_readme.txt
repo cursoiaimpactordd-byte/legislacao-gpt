@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 821
+
+**2. Data e Estado:** 2026-04-22, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Portaria SEFAZ Nº 2049/2024, designando e lotando servidores fiscais para setores e grupos de trabalho.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**6. Contagem:**
+
+- Artigos: 8
+- Parágrafos: 1
+- Incisos: 1
+- Anexos: 0
+
+**Observações:**
+
+- O documento é uma Portaria que altera a Portaria SEFAZ Nº 2049/2024.
+- A Portaria nº 821 foi publicada no DOE em 2026-04-24.
+- A alteração produz efeitos retroativos em diferentes datas para os Grupos de Trabalho.
