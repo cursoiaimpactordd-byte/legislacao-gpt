@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 945
+
+**2. Data e Estado:** 2026-05-08, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Portaria SEF nº 109, de 22 de março de 2001, que estabelece procedimentos para saídas de mercadorias sujeitas a sistemática da substituição tributária.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificar se a Portaria foi publicada corretamente no DOE.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 1
+- Incisos: 0
+- Anexos: 0
