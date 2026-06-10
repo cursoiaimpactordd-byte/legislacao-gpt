@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Decreto nº 101322
+
+**2. Data e estado:** 2025-02-24, Estado de Alagoas
+
+**3. Ementa resumida:** Altera o Decreto Estadual nº 90.309, de 27 de março de 2023, para implementar as disposições dos Convênios ICMS nº 181 e nº 7, relativos às operações com nafta não petroquímica.
+
+**4. Problemas encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Não foi possível verificar os trechos do documento devido à falta de informações.
+
+**6. Contagem:**
+
+- **Artigos:** 5
+- **Parágrafos:** 8
+- **Incisos:** 13
+- **Anexos:** 1
