@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 101323
+
+**Data e Estado:** 2025-02-24, Estado de Alagoas
+
+**Ementa Resumida:** Altera o Decreto Estadual nº 3.481, de 16 de novembro de 2006, que dispõe sobre o Cadastro de Contribuintes do ICMS do Estado de Alagoas - CACEAL.
+
+**Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**Trechos [VERIFICAR]:** Não foram encontrados trechos truncados no documento.
+
+**Contagem:**
+
+- Artigos: 8
+- Parágrafos: 5
+- Incisos: 24
+- Anexos: 0
