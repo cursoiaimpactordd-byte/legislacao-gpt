@@ -1,0 +1,25 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 100619
+
+**2. Data e Estado:** 2025-01-20, Estado de Alagoas
+
+**3. Ementa Resumida:** Autoriza a empresa ENERGY ENGENHARIA LTDA. a proceder o aditamento da escritura pública de compra e venda subsidiada, com encargos e outras avenças, para exclusão de cláusula já cumprida.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** O documento apresenta 4 artigos, 1 anexo (não encontrado) e 1 ementa.
+
+**6. Contagem:**
+
+- Artigos: 4
+- Parágrafos: 7
+- Incisos: 4
+- Anexos: 1 (não encontrado)
+- Palavras: 466
+
+**Observações:**
+
+- O documento foi republicado em 07/02/2025 devido a incorreção.
+- O Decreto entra em vigor na data de sua publicação, conforme Art. 3º.
+- As disposições em contrário são revogadas, conforme Art. 4º.
