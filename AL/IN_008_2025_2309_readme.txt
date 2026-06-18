@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 8
+
+**2. Data e Estado:** 19 de maio de 2025, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SURE Nº 13/2023, estabelecendo valores para cálculo do ICMS devido por substituição tributária e antecipação do imposto em operações com cerveja, chope, refrigerante e outros produtos.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Não foi possível verificar trechos específicos do documento.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 7
+- **Incisos:** 9
+- **Anexos:** 1
+
+**Observações:** O documento apresenta uma estrutura clara e organizada, com uma introdução que explica a alteração da Instrução Normativa SURE Nº 13/2023. O anexo único lista os produtos adicionados à instrução normativa. O documento é claro e fácil de entender, com uma linguagem técnica adequada para o público-alvo.
