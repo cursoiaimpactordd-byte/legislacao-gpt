@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 9
+
+**2. Data e Estado:** 2025-06-02, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SURE Nº 13/2023, adicionando novos produtos à base de cálculo do ICMS devido por substituição tributária.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** O documento contém trechos truncados, que foram omitidos no relatório.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 5
+- **Incisos:** 8
+- **Anexos:** 1
+
+**Observações:** O documento é uma instrução normativa que altera a Instrução Normativa SURE Nº 13/2023, adicionando novos produtos à base de cálculo do ICMS devido por substituição tributária. O documento é claro e conciso, com uma estrutura lógica e fácil de entender.
