@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 104542
+
+**2. Data e Estado:** 2025-10-03, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Regulamento do ICMS para implementar as disposições dos Convênios ICMS nºs 26 e 104.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 7
+- **Incisos:** 14
+- **Anexos:** 1
+
+**Observações:**
+
+- O documento é um decreto estadual que altera o Regulamento do ICMS.
+- O decreto entra em vigor na data de sua publicação, com efeitos retroativos a 1º de janeiro de 2022.
+- O documento contém 14 incisos e 3 artigos.
