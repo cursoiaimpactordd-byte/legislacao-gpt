@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 9
+
+**2. Data e Estado:** 2025-02-07, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SEF nº 6, de 19 de janeiro de 2024, que divulga as alíquotas específicas do ICMS para fins de recolhimento ao Fundo Estadual de Combate e Erradicação da Pobreza - FECOEP.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 5
+- **Incisos:** 5
+- **Anexos:** 0
+
+**Observações:**
+
+- A Instrução Normativa nº 9 altera a Instrução Normativa SEF nº 6, de 19 de janeiro de 2024, que divulga as alíquotas específicas do ICMS para fins de recolhimento ao Fundo Estadual de Combate e Erradicação da Pobreza - FECOEP.
+- A alteração é necessária devido à necessidade de adequação aos Convênios ICMS nos 126 e 127, de 30 de outubro de 2024.
+- A Instrução Normativa entra em vigor no dia 1º de fevereiro de 2025.
