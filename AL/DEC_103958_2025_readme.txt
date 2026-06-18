@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 103958
+
+**2. Data e Estado:** 2025-08-25, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Decreto Estadual nº 52.215, de 20 de fevereiro de 2017, sobre o Programa de Parcelamento e Redução de Débitos do ICMS.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificar a necessidade de alterações no Decreto Estadual nº 52.215.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 4
+- Incisos: 1
+- Anexos: 0
