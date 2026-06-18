@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 23
+
+**2. Data e Estado:** 24 de abril de 2025, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre o sorteio de prêmios no âmbito do Programa de Estímulo à Cidadania Fiscal do Estado de Alagoas - Edição Dia das Mães 2025.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 10
+- Parágrafos: 6
+- Incisos: 15
+- Anexos: 0
+
+**Observações:**
+
+- O documento é uma Instrução Normativa que estabelece regras para o sorteio de prêmios no âmbito do Programa de Estímulo à Cidadania Fiscal do Estado de Alagoas.
+- O sorteio será realizado no dia 16 de maio de 2025 e terá base no concurso nº 05965-0 de 14/05/2025 da Loteria Federal da Caixa Econômica Federal.
+- Os prêmios serão sorteados em ordem decrescente de valor e os ganhadores não concorrerão aos demais prêmios, salvo o ganhador do prêmio fixo previsto na alínea "a" do inciso II do art. 2º.
