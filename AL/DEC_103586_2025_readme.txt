@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 103586
+
+**2. Data e Estado:** 2025-07-31, Estado de Alagoas
+
+**3. Ementa Resumida:** Prorrogação dos incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN concedidos à empresa MILI S/A.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Ficam prorrogados os Incentivos Fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN concedidos à empresa MILI S/A.
+- Art. 2º: A empresa perderá os benefícios concedidos neste Decreto caso venha a infringir as normas estabelecidas na legislação que rege a matéria.
+- Art. 3º: A Secretaria de Estado do Desenvolvimento, Indústria, Comércio e Serviços - SEDICS e a Secretaria de Estado da Fazenda - SEFAZ adotarão os procedimentos operacionais necessários à execução deste Decreto.
+- Art. 4º: A utilização dos benefícios fiscais passa a vigorar a partir do mês subsequente à publicação deste Decreto.
+- Art. 5º: O prazo de duração dos benefícios fiscais ora concedidos será estabelecido conforme previsto na Lei Complementar Federal nº 160, de 7 de agosto de 2017, e no Convênio ICMS 190, de 15 de dezembro de 2017, do Conselho Nacional de Política Fazendária - CONFAZ.
+- Art. 6º: Este Decreto entra em vigor na data de sua publicação.
+- Art. 7º: Revogam-se as disposições em contrário.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 0 (apenas artigos)
+- Incisos: 0 (apenas artigos)
+- Anexos: 0 (nenhum anexo foi encontrado)
