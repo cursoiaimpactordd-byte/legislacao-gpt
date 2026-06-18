@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 105229
+
+**2. Data e Estado:** 2025-11-06, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Decreto Estadual nº 68.249, de 11 de novembro de 2019, que dispõe sobre a remissão parcial de crédito tributário do ICMS.
+
+**4. Problemas Encontrados:** Nenhum problema significativo foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 6
+- **Incisos:** 4
+- **Anexos:** 0
