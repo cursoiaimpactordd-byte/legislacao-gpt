@@ -1,0 +1,17 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 105280
+
+**2. Data e Estado:** 2025-11-10, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Decreto Estadual nº 38.631, de 22 de novembro de 2000, que dispõe sobre estímulo a estabelecimento de contribuinte do ICMS com atividade de distribuição centralizada de produtos.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**6. Contagem:**
+- Artigos: 2
+- Parágrafos: 4
+- Incisos: 2
+- Anexos: 0
