@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 104755
+
+**2. Data e Estado:** 2025-10-14, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Regulamento do ICMS, aprovado pelo Decreto Estadual nº 35.245, de 26 de dezembro de 1991, relativamente às operações com produtos comestíveis resultantes do abate de frango.
+
+**4. Problemas Encontrados:** Nenhum problema significativo encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho truncado encontrado no documento.
+
+**6. Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 5
+- **Incisos:** 10
+- **Anexos:** 1
