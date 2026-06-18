@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 101697
+
+**2. Data e Estado:** 2025-03-26, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Decreto Estadual nº 59.240, de 1º de junho de 2018, que dispõe sobre a concessão de incentivo para apoio a projetos culturais e doação ao Fundo de Desenvolvimento de Ações Culturais - FDAC.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**6. Contagem:**
+
+- Artigos: 11
+- Parágrafos: 3
+- Incisos: 23
+- Anexos: 0
+
+**Observações:**
+
+- O documento é um decreto estadual que altera o Decreto Estadual nº 59.240, de 1º de junho de 2018.
+- O decreto estabelece objetivos e diretrizes para o Plano de Incentivo à Cultura de Alagoas.
+- O decreto entra em vigor na data de sua publicação.
