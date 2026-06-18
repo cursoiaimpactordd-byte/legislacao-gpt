@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 103587
+
+**2. Data e Estado:** 2025-07-31, Estado de Alagoas
+
+**3. Ementa Resumida:** Ampliação do prazo de fruição dos incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN concedidos à empresa MILI S/A.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 6
+- Parágrafos: 7
+- Incisos: 5
+- Anexos: 0
+
+**7. Observações:** O documento é um decreto que amplia o prazo de fruição dos incentivos fiscais do PRODESIN concedidos à empresa MILI S/A.
+
+**8. Conclusão:** O relatório de parsing foi realizado com sucesso e não foram encontrados problemas significativos no documento.
+
+**9. Recomendações:** Nenhuma recomendação é necessária.
+
+**10. Data de Conclusão:** 18 de junho de 2026.
