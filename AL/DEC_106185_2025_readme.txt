@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 106185
+
+**Data e Estado:** 2025-12-29, Estado de Alagoas
+
+**Ementa Resumida:** Dispõe sobre o prazo especial para recolhimento do ICMS devido pelos contribuintes vinculados à campanha de promoção de vendas denominada "Natal Premiado 2025".
+
+**Problemas Encontrados:** Nenhum problema encontrado.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+- Artigos: 6
+- Parágrafos: 7
+- Incisos: 4
+- Anexos: 1
+
+**Observações:** O documento apresenta 6 artigos, 7 parágrafos e 4 incisos, além de um anexo. O conteúdo do documento é relacionado à disposição de prazo especial para recolhimento do ICMS devido pelos contribuintes vinculados à campanha de promoção de vendas denominada "Natal Premiado 2025".
