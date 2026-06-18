@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 6
+
+**2. Data e Estado:** 30 de janeiro de 2025, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa nº 19, de 18 de maio de 2009, para inclusão de Registros de EFD.
+
+**4. Problemas Encontrados:**
+
+- Erro de formatação no art. 2º, com duas redações diferentes.
+- Falta de clareza na definição de "registros filhos" no art. 4º.
+
+**5. Trechos [VERIFICAR]:**
+
+- Verificar a compatibilidade entre as especificações do leiaute definido no Ato COTEPE/ICMS nº 44 e as informações econômico-fiscais e contábeis.
+- Verificar a definição de "registros filhos" e sua aplicação prática.
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 5
+- Incisos: 4
+- Anexos: 0
