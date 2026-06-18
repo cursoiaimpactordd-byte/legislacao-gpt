@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 102336
+
+**2. Data e Estado:** 2025-05-09, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Regulamento do ICMS, aprovado pelo Decreto Estadual nº 35.245, de 26 de dezembro de 1991, relativamente à exclusão de mercadorias da antecipação tributária de que trata a Lei Estadual nº 6.474, de 24 de maio de 2004.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 4
+- Incisos: 18
+- Anexos: 1
+
+**Observações:**
+
+- O documento é um decreto estadual que altera o Regulamento do ICMS.
+- O decreto entra em vigor no primeiro dia do mês seguinte à sua publicação.
+- O documento contém 18 incisos e 1 anexo.
