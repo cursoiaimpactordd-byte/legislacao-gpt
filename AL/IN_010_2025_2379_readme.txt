@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 10
+
+**2. Data e Estado:** 2025-02-10, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre o limite global de financiamento de projetos de incentivo a cultura no exercício de 2025.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 2
+- Incisos: 2
+- Anexos: 0
+
+**Observações:**
+
+- O documento é uma Instrução Normativa emitida pela Secretaria de Estado da Fazenda do Estado de Alagoas.
+- A ementa resumida indica que o documento dispõe sobre o limite global de financiamento de projetos de incentivo a cultura no exercício de 2025.
+- O documento não apresenta problemas significativos, mas é recomendável verificar os trechos mencionados para garantir a precisão do parsing.
