@@ -1,0 +1,22 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 106092
+
+**Data e Estado:** 2025-12-29, Estado de Alagoas
+
+**Ementa Resumida:** Institui o Documento de Arrecadação de Receitas Estaduais - DAR com múltiplas receitas, recepciona a Guia Nacional de Recolhimento de Tributos Estaduais - GNRE com múltiplas receitas e estabelece regras para utilização.
+
+**Problemas Encontrados:**
+
+- Nenhum problema foi encontrado no documento.
+
+**Trechos [VERIFICAR]:**
+
+- Nenhum trecho foi verificado.
+
+**Contagem:**
+
+- Artigos: 39
+- Parágrafos: 12
+- Incisos: 9
+- Anexos: 0
