@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 106093
+
+**2. Data e Estado:** 29 de dezembro de 2025, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre os feriados nacionais e estaduais para o exercício de 2026, define os pontos facultativos nas repartições públicas do Poder Executivo do Estado de Alagoas e dá outras providências.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 5
+- **Parágrafos:** 1
+- **Incisos:** 26
+- **Anexos:** 0
