@@ -1,0 +1,25 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 105768
+
+**2. Data e Estado:** 2025-12-04, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre a concessão de anistia e remissão do crédito tributário relativo ao ICMS correspondente ao complemento do imposto retido por substituição tributária.
+
+**4. Problemas Encontrados:**
+
+- Ausência de clareza em relação à aplicação do Convênio ICMS nº 127;
+- Possível conflito com a Constituição Estadual;
+- Falta de detalhes sobre a restituição ou compensação de valores do imposto já recolhidos.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Ficam anistiados e remitidos os créditos tributários, constituídos ou não, inscritos ou não em dívida ativa, inclusive ajuizados, relativos ao ICMS cobrado por substituição tributária.
+- Parágrafo único: O benefício de que trata o caput deste artigo alcança os fatos geradores ocorridos de 1º de janeiro de 2020 até 31 de dezembro de 2024.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 1
+- Incisos: 2
+- Anexos: 1
