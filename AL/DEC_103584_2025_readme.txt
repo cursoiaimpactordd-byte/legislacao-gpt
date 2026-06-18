@@ -1,0 +1,22 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:**
+O documento é um Decreto, com número 103584.
+
+**2. Data e Estado:**
+A data de publicação é 2025-07-31 e o estado é Alagoas.
+
+**3. Ementa Resumida:**
+O Decreto concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa TL INDUSTRIA DE ARTEFATOS DE CONCRETO LTDA.
+
+**4. Problemas Encontrados:**
+Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:**
+Nenhum trecho foi verificado como necessário.
+
+**6. Contagem:**
+- Artigos: 7
+- Parágrafos: 1
+- Incisos: 0
+- Anexos: 0
