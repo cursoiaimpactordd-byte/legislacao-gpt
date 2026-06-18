@@ -1,0 +1,25 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Decreto nº 103414
+
+**2. Data e estado:** 2025-07-23, Estado de Alagoas
+
+**3. Ementa resumida:** Dispõe sobre os procedimentos para manutenção e restabelecimento da regularidade jurídica, fiscal, contábil, econômico-financeira e administrativa dos órgãos e entidades da Administração Pública Estadual.
+
+**4. Problemas encontrados:**
+
+- Falta de atualização da inscrição do CNPJ junto à RFB
+- Falta de implantação, manutenção, monitoramento e revisão dos controles internos
+- Pendências ou restrições identificadas no CAUC
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Os órgãos e entidades da Administração Pública Estadual deverão adotar as providências necessárias para manter as respectivas regularidades jurídica, fiscal e econômico-financeira.
+- Art. 5º: Os órgãos e entidades deverão manter atualizada a inscrição do CNPJ e implantar, manter, monitorar e revisar os controles internos.
+
+**6. Contagem:**
+
+- Artigos: 20
+- Parágrafos: 6
+- Incisos: 5
+- Anexos: 0
