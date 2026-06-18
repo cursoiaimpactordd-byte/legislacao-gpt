@@ -1,0 +1,602 @@
+[
+  {
+    "id": "COM_001_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Comunicado",
+    "numero": "001",
+    "ano": "2025",
+    "assunto": "Comunicado nº 001/2025 - Alagoas",
+    "arquivo": "COM_001_2025.md",
+    "arquivos_relacionados": [
+      "COM_001_2025_faq.md",
+      "COM_001_2025_readme.txt",
+      "COM_001_2025_semantica.md"
+    ],
+    "resumo": "Documento Comunicado nº 001/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Comunicado",
+      "comunicado",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "COM_001_2026",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Comunicado",
+    "numero": "001",
+    "ano": "2026",
+    "assunto": "Comunicado nº 001/2026 - Alagoas",
+    "arquivo": "COM_001_2026.md",
+    "arquivos_relacionados": [
+      "COM_001_2026_faq.md",
+      "COM_001_2026_readme.txt",
+      "COM_001_2026_semantica.md"
+    ],
+    "resumo": "Documento Comunicado nº 001/2026 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Comunicado",
+      "comunicado",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "COM_003_2026",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Comunicado",
+    "numero": "003",
+    "ano": "2026",
+    "assunto": "Comunicado nº 003/2026 - Alagoas",
+    "arquivo": "COM_003_2026.md",
+    "arquivos_relacionados": [
+      "COM_003_2026_faq.md",
+      "COM_003_2026_readme.txt",
+      "COM_003_2026_semantica.md"
+    ],
+    "resumo": "Documento Comunicado nº 003/2026 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Comunicado",
+      "comunicado",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_100550_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "100550",
+    "ano": "2025",
+    "assunto": "Decreto nº 100550/2025 - Alagoas",
+    "arquivo": "DEC_100550_2025.md",
+    "arquivos_relacionados": [
+      "DEC_100550_2025_faq.md",
+      "DEC_100550_2025_readme.txt",
+      "DEC_100550_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 100550/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_100619_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "100619",
+    "ano": "2025",
+    "assunto": "Decreto nº 100619/2025 - Alagoas",
+    "arquivo": "DEC_100619_2025.md",
+    "arquivos_relacionados": [
+      "DEC_100619_2025_faq.md",
+      "DEC_100619_2025_readme.txt",
+      "DEC_100619_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 100619/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_100867_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "100867",
+    "ano": "2025",
+    "assunto": "Decreto nº 100867/2025 - Alagoas",
+    "arquivo": "DEC_100867_2025.md",
+    "arquivos_relacionados": [
+      "DEC_100867_2025_faq.md",
+      "DEC_100867_2025_readme.txt",
+      "DEC_100867_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 100867/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_100868_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "100868",
+    "ano": "2025",
+    "assunto": "Decreto nº 100868/2025 - Alagoas",
+    "arquivo": "DEC_100868_2025.md",
+    "arquivos_relacionados": [
+      "DEC_100868_2025_faq.md",
+      "DEC_100868_2025_readme.txt",
+      "DEC_100868_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 100868/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_101051_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "101051",
+    "ano": "2025",
+    "assunto": "Decreto nº 101051/2025 - Alagoas",
+    "arquivo": "DEC_101051_2025.md",
+    "arquivos_relacionados": [
+      "DEC_101051_2025_faq.md",
+      "DEC_101051_2025_readme.txt",
+      "DEC_101051_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 101051/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_101322_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "101322",
+    "ano": "2025",
+    "assunto": "Decreto nº 101322/2025 - Alagoas",
+    "arquivo": "DEC_101322_2025.md",
+    "arquivos_relacionados": [
+      "DEC_101322_2025_faq.md",
+      "DEC_101322_2025_readme.txt",
+      "DEC_101322_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 101322/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_101323_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "101323",
+    "ano": "2025",
+    "assunto": "Decreto nº 101323/2025 - Alagoas",
+    "arquivo": "DEC_101323_2025.md",
+    "arquivos_relacionados": [
+      "DEC_101323_2025_faq.md",
+      "DEC_101323_2025_readme.txt",
+      "DEC_101323_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 101323/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_101468_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "101468",
+    "ano": "2025",
+    "assunto": "Decreto nº 101468/2025 - Alagoas",
+    "arquivo": "DEC_101468_2025.md",
+    "arquivos_relacionados": [
+      "DEC_101468_2025_faq.md",
+      "DEC_101468_2025_readme.txt",
+      "DEC_101468_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 101468/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_101469_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "101469",
+    "ano": "2025",
+    "assunto": "Decreto nº 101469/2025 - Alagoas",
+    "arquivo": "DEC_101469_2025.md",
+    "arquivos_relacionados": [
+      "DEC_101469_2025_faq.md",
+      "DEC_101469_2025_readme.txt",
+      "DEC_101469_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 101469/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_101470_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "101470",
+    "ano": "2025",
+    "assunto": "Decreto nº 101470/2025 - Alagoas",
+    "arquivo": "DEC_101470_2025.md",
+    "arquivos_relacionados": [
+      "DEC_101470_2025_faq.md",
+      "DEC_101470_2025_readme.txt",
+      "DEC_101470_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 101470/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_101471_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "101471",
+    "ano": "2025",
+    "assunto": "Decreto nº 101471/2025 - Alagoas",
+    "arquivo": "DEC_101471_2025.md",
+    "arquivos_relacionados": [
+      "DEC_101471_2025_faq.md",
+      "DEC_101471_2025_readme.txt",
+      "DEC_101471_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 101471/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_101697_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "101697",
+    "ano": "2025",
+    "assunto": "Decreto nº 101697/2025 - Alagoas",
+    "arquivo": "DEC_101697_2025.md",
+    "arquivos_relacionados": [
+      "DEC_101697_2025_faq.md",
+      "DEC_101697_2025_readme.txt",
+      "DEC_101697_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 101697/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_102336_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "102336",
+    "ano": "2025",
+    "assunto": "Decreto nº 102336/2025 - Alagoas",
+    "arquivo": "DEC_102336_2025.md",
+    "arquivos_relacionados": [
+      "DEC_102336_2025_faq.md",
+      "DEC_102336_2025_readme.txt",
+      "DEC_102336_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 102336/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103414_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103414",
+    "ano": "2025",
+    "assunto": "Decreto nº 103414/2025 - Alagoas",
+    "arquivo": "DEC_103414_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103414_2025_faq.md",
+      "DEC_103414_2025_readme.txt",
+      "DEC_103414_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103414/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103578_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103578",
+    "ano": "2025",
+    "assunto": "Decreto nº 103578/2025 - Alagoas",
+    "arquivo": "DEC_103578_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103578_2025_faq.md",
+      "DEC_103578_2025_readme.txt",
+      "DEC_103578_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103578/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103579_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103579",
+    "ano": "2025",
+    "assunto": "Decreto nº 103579/2025 - Alagoas",
+    "arquivo": "DEC_103579_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103579_2025_faq.md",
+      "DEC_103579_2025_readme.txt",
+      "DEC_103579_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103579/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103580_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103580",
+    "ano": "2025",
+    "assunto": "Decreto nº 103580/2025 - Alagoas",
+    "arquivo": "DEC_103580_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103580_2025_faq.md",
+      "DEC_103580_2025_readme.txt",
+      "DEC_103580_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103580/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103581_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103581",
+    "ano": "2025",
+    "assunto": "Decreto nº 103581/2025 - Alagoas",
+    "arquivo": "DEC_103581_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103581_2025_faq.md",
+      "DEC_103581_2025_readme.txt",
+      "DEC_103581_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103581/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103583_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103583",
+    "ano": "2025",
+    "assunto": "Decreto nº 103583/2025 - Alagoas",
+    "arquivo": "DEC_103583_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103583_2025_faq.md",
+      "DEC_103583_2025_readme.txt",
+      "DEC_103583_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103583/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103584_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103584",
+    "ano": "2025",
+    "assunto": "Decreto nº 103584/2025 - Alagoas",
+    "arquivo": "DEC_103584_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103584_2025_faq.md",
+      "DEC_103584_2025_readme.txt",
+      "DEC_103584_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103584/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103585_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103585",
+    "ano": "2025",
+    "assunto": "Decreto nº 103585/2025 - Alagoas",
+    "arquivo": "DEC_103585_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103585_2025_faq.md",
+      "DEC_103585_2025_readme.txt",
+      "DEC_103585_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103585/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  },
+  {
+    "id": "DEC_103586_2025",
+    "estado": "AL",
+    "estado_nome": "Alagoas",
+    "tipo": "Decreto",
+    "numero": "103586",
+    "ano": "2025",
+    "assunto": "Decreto nº 103586/2025 - Alagoas",
+    "arquivo": "DEC_103586_2025.md",
+    "arquivos_relacionados": [
+      "DEC_103586_2025_faq.md",
+      "DEC_103586_2025_readme.txt",
+      "DEC_103586_2025_semantica.md"
+    ],
+    "resumo": "Documento Decreto nº 103586/2025 do Estado de Alagoas. Consulte o arquivo completo para confirmação do conteúdo, vigência, obrigações e impactos.",
+    "tags": [
+      "Alagoas",
+      "SEFAZ/AL",
+      "Decreto",
+      "decreto",
+      "legislação estadual"
+    ],
+    "origem": ""
+  }
+]
