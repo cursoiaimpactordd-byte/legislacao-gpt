@@ -1,0 +1,57 @@
+# Mapa Semântico para RAG — Instrução Normativa nº 040/2025 — ALAGOAS
+
+## Metadados do Mapa
+- Documento: Instrução Normativa nº 040/2025 — ALAGOAS
+- Tipo: normativo
+- Unidades citáveis identificadas: Art., §, Incisos
+- Total de temas: 3
+
+## Taxonomia de Temas
+[1] Tema 1: Escrituração Fiscal Digital (EFD)
+[2] Tema 2: Alterações na Instrução Normativa SEF nº 19
+[3] Tema 3: Vigência e Entrada em Vigor
+
+## Mapa por Tema
+
+### [1] Escrituração Fiscal Digital (EFD)
+**Onde na norma:** Art. 1º, Inciso IV do § 1º do art. 4º
+**Regras principais:**
+- O arquivo digital da EFD será gerado pelo contribuinte de acordo com as especificações do leiaute definido no Ato COTEPE/ICMS nº 44, de 7 de agosto de 2018.
+- O arquivo conterá, inclusive, a totalidade das informações econômico-fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia do mês.
+**Exceções/Condições:**
+- Não identificadas
+**Perguntas típicas para recuperação:**
+- Qual é o leiaute definido no Ato COTEPE/ICMS nº 44?
+**Temas relacionados:** [2] Alterações na Instrução Normativa SEF nº 19
+**Tags de busca:** EFD, Escrituração Fiscal Digital, contribuinte, leiaute, Ato COTEPE/ICMS nº 44
+
+### [2] Alterações na Instrução Normativa SEF nº 19
+**Onde na norma:** Art. 1º, Inciso I do § 1º do art. 4º e Art. 2º
+**Regras principais:**
+- Os dispositivos adiante indicados da Instrução Normativa SEF nº 19, de 18 de maio de 2009, passam a vigorar com as seguintes redações.
+- O ANEXO ÚNICO da Instrução Normativa SEF nº 19, de 2009, passa a vigorar acrescido.
+**Exceções/Condições:**
+- Não identificadas
+**Perguntas típicas para recuperação:**
+- Quais são as alterações na Instrução Normativa SEF nº 19?
+**Temas relacionados:** [1] Escrituração Fiscal Digital (EFD)
+**Tags de busca:** Instrução Normativa SEF nº 19, alterações, ANEXO ÚNICO
+
+### [3] Vigência e Entrada em Vigor
+**Onde na norma:** Art. 3º
+**Regras principais:**
+- Esta Instrução Normativa entra em vigor na data de sua publicação.
+**Exceções/Condições:**
+- Não identificadas
+**Perguntas típicas para recuperação:**
+- Em que data entra em vigor a Instrução Normativa nº 040/2025?
+**Temas relacionados:** [1] Escrituração Fiscal Digital (EFD), [2] Alterações na Instrução Normativa SEF nº 19
+**Tags de busca:** vigência, entrada em vigor, publicação
+
+## Índice de Remissões Bidirecionais
+Tema: [1] Escrituração Fiscal Digital (EFD) ↔ Tema: [2] Alterações na Instrução Normativa SEF nº 19 — motivo: alterações na Instrução Normativa SEF nº 19 afetam a Escrituração Fiscal Digital (EFD)
+Tema: [2] Alterações na Instrução Normativa SEF nº 19 ↔ Tema: [3] Vigência e Entrada em Vigor — motivo: a Instrução Normativa nº 040/2025 entra em vigor na data de sua publicação
+
+## Índice de Anexos e Tabelas
+- TABELA “B” - APURAÇÃO DE ICMS SUBSTITUIÇÃO TRIBUTÁRIA do ANEXO ÚNICO
+- TABELA “A” - APURAÇÃO DE ICMS PRÓPRIO do ANEXO ÚNICO
