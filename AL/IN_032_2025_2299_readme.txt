@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 32
+
+**2. Data e Estado:** 2025-09-25, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SURE Nº 24/2025, estabelecendo valores para cálculo do ICMS devido por substituição tributária e antecipação do imposto em operações com cerveja, chope, refrigerante, bebidas hidroeletrolíticas e energéticas.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificar a consistência entre a data de publicação e a data de entrada em vigor da Instrução Normativa.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 4
+- Anexos: 1
+
+**Observações:** O documento apresenta uma estrutura clara e organizada, com uma introdução que justifica a alteração da Instrução Normativa SURE Nº 24/2025. O anexo único lista os produtos adicionados à Instrução Normativa.
