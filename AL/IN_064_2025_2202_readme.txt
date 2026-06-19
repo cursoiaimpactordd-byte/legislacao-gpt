@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 64
+
+**2. Data e Estado:** 2025-09-23, Estado de Alagoas
+
+**3. Ementa Resumida:** Disciplina o credenciamento de hospitais, clínicas, secretarias estaduais e municipais de saúde e Ministério da Saúde para fins de atribuição da condição de fiel depositária.
+
+**4. Problemas Encontrados:** Não foram encontrados problemas significativos no documento.
+
+**5. Trechos [VERIFICAR]:** Não foram verificados trechos específicos.
+
+**6. Contagem:**
+
+- Artigos: 9
+- Parágrafos: 4
+- Incisos: 11
+- Anexos: 0
