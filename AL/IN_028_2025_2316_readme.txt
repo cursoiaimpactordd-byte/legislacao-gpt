@@ -1,0 +1,25 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 28
+
+**2. Data e Estado:** 2025-05-19, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre a regularização das prestações de contas de Diárias e Adiantamentos no Sistema Integrado de Administração Financeira do Estado de Alagoas (SIAFEAL).
+
+**4. Problemas Encontrados:**
+
+- Falta de prazos para a regularização de prestações de contas de Diárias e Adiantamentos;
+- Necessidade de bloqueio de Nota de Empenho em caso de não cumprimento dos prazos.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Estabelece prazos para a regularização de prestações de contas de Diárias e Adiantamentos;
+- Art. 2º: Estabelece consequências para o não cumprimento dos prazos;
+- Art. 3º: Estabelece a data de entrada em vigor da norma.
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 10
+- Incisos: 5
+- Anexos: 0
