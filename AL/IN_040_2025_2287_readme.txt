@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Instrução Normativa nº 40
+
+**Data e Estado:** 10 de junho de 2025, Estado de Alagoas
+
+**Ementa Resumida:** Altera a Instrução Normativa nº 19, de 18 de maio de 2009, para incluir registro de EFD e promover alterações nas tabelas do Anexo Único.
+
+**Problemas Encontrados:** Nenhum problema encontrado.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 6
+- **Incisos:** 10
+- **Anexos:** 1
