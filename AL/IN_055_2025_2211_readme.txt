@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Instrução Normativa nº 55
+
+**2. Data e estado:** 2025-09-05, Estado de Alagoas
+
+**3. Ementa resumida:** Disciplina a concessão de recompensas no âmbito do Programa Contribuinte Arretado.
+
+**4. Problemas encontrados:**
+
+- O texto apresenta trechos truncados.
+- Existem mudanças de redação nos artigos 2º e 3º, conforme indicado nas notas de rodapé.
+
+**5. Trechos [VERIFICAR]:**
+
+- O trecho truncado começa após o inciso I do art. 2º.
+- É necessário verificar se o texto foi completo ao final do documento.
+
+**6. Contagem:**
+
+- Artigos: 4
+- Parágrafos: 2
+- Incisos: 9
+- Anexos: 0
