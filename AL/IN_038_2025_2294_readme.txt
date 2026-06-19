@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Instrução Normativa nº 38
+
+**2. Data e estado:** 2025-06-03, Estado de Alagoas
+
+**3. Ementa resumida:** Altera a Instrução Normativa SEF nº 11, de 30 de março de 2021, para implementar disposições do Ajuste SINIEF nº 5, de 11 de abril de 2025.
+
+**4. Problemas encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 5
+- Incisos: 4
+- Anexos: 0
