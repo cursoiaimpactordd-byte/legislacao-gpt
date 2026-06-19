@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 33
+
+**2. Data e Estado:** 2025-05-26, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SEF nº 6 para implementar disposições do Ajuste SINIEF nº 9.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificar se a redação do Art. 1º está correta e se o § 5º do Art. 5º está completo.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 1
+- Anexos: 0
