@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Instrução Normativa nº 90
+
+**2. Data e estado:** 2025-12-30, Estado de Alagoas
+
+**3. Ementa resumida:** Dispõe sobre a inclusão da CBS e do IBS na base de cálculo do ICMS.
+
+**4. Problemas encontrados:**
+
+- A Constituição Federal não exclui explicitamente a IBS e a CBS da base de cálculo do ICMS.
+- A Lei Complementar 214/2025 não menciona a exclusão da IBS e da CBS da base de cálculo do ICMS.
+- A Lei Complementar nº 87, de 1996, prevê que a CBS comporá a base de cálculo do ICMS.
+
+**5. Trechos [VERIFICAR]:**
+
+- Considerando que a Constituição Federal, quando quis excluir tributo da composição da base de cálculo de outro tributo, assim dispôs expressamente...
+- Considerando que a Emenda Constitucional 132, de 2023, ao tratar da base de cálculo do IBS e da CBS, no período de transição, também indica os tributos que não deverão compor sua base de cálculo...
+- Considerando que a própria Constituição, conforme normas acima reproduzidas, nada fala sobre a exclusão da IBS e CBS da base de cálculo do ICMS...
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 2
+- Anexos: 0
