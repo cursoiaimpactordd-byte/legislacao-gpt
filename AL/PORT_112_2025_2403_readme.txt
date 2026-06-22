@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 112
+
+**2. Data e Estado:** 2025-01-03, Estado de Alagoas
+
+**3. Ementa Resumida:** Institui comissão para análise e aprimoramento do atendimento prestado pela Secretaria de Estado da Fazenda através da atendente virtual denominada NISE.
+
+**4. Problemas Encontrados:**
+
+- Existem várias alterações no texto, indicadas por asteriscos, que alteram a composição da comissão e os incisos do art. 2º.
+- O inciso VIII do art. 2º foi revogado pela Portaria SEFAZ nº 1388/2025.
+- O texto foi truncado, sugerindo que há mais informações disponíveis.
+
+**5. Trechos [VERIFICAR]:**
+
+- Verificar a validade das alterações indicadas por asteriscos.
+- Verificar se o inciso VIII do art. 2º foi realmente revogado.
+- Verificar se há mais informações disponíveis no texto truncado.
+
+**6. Contagem:**
+
+- Artigos: 5
+- Parágrafos: 6
+- Incisos: 13
+- Anexos: 0
