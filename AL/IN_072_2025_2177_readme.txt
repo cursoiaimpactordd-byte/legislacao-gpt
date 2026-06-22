@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 72
+
+**2. Data e Estado:** 2025-10-31, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa nº 1, de 29 de abril de 2004, que dispõe sobre os procedimentos de que trata a Lei nº 6.410, de 24 de outubro de 2003.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 2
+- Anexos: 1
