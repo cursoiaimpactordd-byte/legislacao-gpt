@@ -1,0 +1,21 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 2
+
+**2. Data e Estado:** 2025-02-21, Estado de Alagoas
+
+**3. Ementa Resumida:** Divulga o valor do ICMS por quilograma de farinha de trigo e mistura de farinha de trigo para fins de apuração ou reapuração do imposto.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- O valor do ICMS, por quilograma (kg) de farinha de trigo e mistura de farinha de trigo, nas operações internas e interestaduais, relativo ao mês de janeiro de 2025, para fins de apuração ou reapuração do imposto nos termos do Anexo XII, Capítulo II, Art. 21, do Decreto 90.309/2023, são os seguintes:
+- OPERAÇÃO INTERESTADUAL - (R$/Kg) - 0,6120
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 3
+- Incisos: 2
+- Anexos: 1
