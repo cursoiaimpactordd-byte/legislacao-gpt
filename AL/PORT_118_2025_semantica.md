@@ -1,0 +1,111 @@
+# Mapa Semântico para RAG — Portaria nº 118/2025 — ALAGOAS
+
+## Metadados do Mapa
+- Documento: Portaria nº 118/2025 — ALAGOAS
+- Tipo: normativo
+- Unidades citáveis identificadas: [Art., §, Incisos]
+- Total de temas: 2
+
+## Taxonomia de Temas
+[1] Tema 1: Alterações na Portaria SEF nº 1752
+[2] Tema 2: Alterações na Titularidade de Grupos de Trabalho
+
+## Mapa por Tema
+
+### [1] Alterações na Portaria SEF nº 1752
+**Onde na norma:** Art. 1º
+**Regras principais:**
+- Alterar o anexo único da Portaria SEF nº 1752
+**Exceções/Condições:**
+- Não identificadas
+**Perguntas típicas para recuperação:**
+- Quais são as alterações feitas na Portaria SEF nº 1752?
+**Temas relacionados:** [1] Tema 2
+**Tags de busca:** portaria, alteração, SEF
+
+### [2] Alterações na Titularidade de Grupos de Trabalho
+**Onde na norma:** Art. 3º
+**Regras principais:**
+- Alterar a titularidade do GT 37 - IPVA
+- Retroagir os efeitos a partir de 01 de outubro de 2024
+**Exceções/Condições:**
+- Não identificadas
+**Perguntas típicas para recuperação:**
+- Quais são as alterações feitas na titularidade de grupos de trabalho?
+**Temas relacionados:** [1] Tema 1
+**Tags de busca:** titularidade, grupos de trabalho, alteração
+
+## Índice de Remissões Bidirecionais
+Tema: [1] Alterações na Portaria SEF nº 1752 ↔ Tema: [2] Alterações na Titularidade de Grupos de Trabalho — motivo: alterações relacionadas
+
+## Índice de Anexos e Tabelas
+- Anexo Único: lista de grupos de trabalho e seus titulares
+
+DOCUMENTO:
+```yml
+---
+tipo: Portaria
+numero: 118
+ano: 2025
+estado: Alagoas
+ementa: Altera a Portaria SEF nº 1752, de 01 de agosto de 2023
+vigencia: 2025-01-09
+---
+
+# Portaria nº 118
+
+## Art. 1º
+
+O anexo único da Portaria SEF nº 1752, de 01 de agosto de 2023, passa a vigorar com a seguinte redação:
+
+### Anexo Único
+
+#### GTS CONFAZ
+
+| Grupo de Trabalho | Titulares |
+| --- | --- |
+| GT 05 - COMBUSTÍVEL | Gilberto Barboza de Lima, Ticiano Silva Barboza, Rosivaldo Rolin Vieira |
+| GT 06 - SINIEF | Sergio Lins Machado |
+| GT 08 - QUANTIFICAÇÃO | Daniel Pinheiro da Costa Porangaba, Danillo Barros Cordeiro |
+| GT 10 - PROCURADORES/COTEPE | Marcelo da Rocha Sampaio |
+| GT 11 – SISTEMATIZAÇÃO DE CONVÊNIOS, AJUSTES, PROTOCOLOS E OUTROS NORMATIVOS | Márcia Maria Barros Barbosa |
+| GT 13 - ENERGIA ELETRICA | Marcelo Henrique Motter |
+| GT 18 - CORREGEDORES DEFAZENDA ESTADUAIS E DO DISTRITO FEDERAL | Ricardo de Carvalho Cavalcanti Calado, Maurício José Santos Leal |
+| GT 20 - TRÂNSITO DE MERCADORIA | Josiel Xavier da Silva |
+| GT 26 - BENEFÍCIO FISCAL | Carlos Alberto Pereira de Messias, Mário Sérgio Martins de Castro, Gabriela Albuquerque Ribeiro |
+| GT 34 - SUBSTITUIÇÃOTRIBUTÁRIA | Marta Eliana Lopes Merli, Cristiano George dos Santos |
+| GT 37 - IPVA | Alyson da Cunha Barbosa Sato |
+| GT 38 - SIMPLES NACIONAL | Cláudia Cristina Araujo de Freitas |
+| GT 40 - COMUNICAÇÃO | Kevlemn Sousa Gouveia Nobrega |
+| GT 45 - VEÍCULOS | João Pedro Santos Silva |
+| GT 47 - REFORMA TRIBUTÁRIA | Rogério Góes Sampaio, Marcos José Dattoli de Souza |
+| GT 48 - SPED | Eduardo Egypto Rosa Bastos, Bruno Pereira de Souza |
+| GT 50 - RECUPERAÇÃO DE CRÉDITOS TRIBUTÁRIOS | Carlos de Sousa Lima Filho |
+| GT 51 - ITCMD | Rodrigo Lopes de Matos Silva |
+| GT 53 - ARRECADAÇÃO DE TRIBUTOS | Marco Helder Christoni |
+| GT 54 - COMÉRCIO EXTERIOR | Larissa Aparecida Lima Silva |
+| GT 55 - ACOMPANHAMENTO E ESTUDOS LEGISLATIVOS | Jéssica Santos Villar |
+| GT 57 - RECEITAS NÃO TRIBUTÁRIAS | Valéria Torres Cotrim |
+
+## Art. 3º
+
+No tocante a alteração da titularidade do GT 37 - IPVA, esta retroagirá seus efeitos a partir de 01 de outubro de 2024.
+
+## Art. 4º
+
+Esta portaria entra em vigor na data de sua publicação.
+
+---
+
+SECRETARIA DE ESTADO DA FAZENDA, em Maceió, 08 de janeiro de 2025.
+
+MONIQUE SOUZA DE ASSIS
+
+Secretária Especial do Tesouro Estadual
+
+Respondendo interinamente pelo cargo de Secretária de Estado da Fazenda,
+
+conforme Decreto nº 100.330 de 13/12/2024.
+
+*Republicada por incorreção em 23/01/2025.*
+```
