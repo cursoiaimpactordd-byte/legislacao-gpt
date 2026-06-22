@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 1333
+
+**2. Data e Estado:** 2025-07-11, Estado de Alagoas
+
+**3. Ementa Resumida:** Designa o Encarregado pelo Tratamento de Dados Pessoais na Secretaria de Estado da Fazenda.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 5
+- **Parágrafos:** 5
+- **Incisos:** 4
+- **Anexos:** 0
+
+**Observações:** O documento é uma Portaria da Secretaria de Estado da Fazenda, que designa o Encarregado pelo Tratamento de Dados Pessoais na instituição. O documento segue a estrutura padrão de uma Portaria, com artigos e incisos que definem as atribuições e responsabilidades do Encarregado.
