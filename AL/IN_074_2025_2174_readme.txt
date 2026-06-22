@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Instrução Normativa nº 74
+
+**2. Data e estado:** 2025-11-07, Estado de Alagoas
+
+**3. Ementa resumida:** Dispõe sobre o sorteio de prêmios no âmbito do Programa de Estímulo à Cidadania Fiscal do Estado de Alagoas - Edição de Natal Nota Fiscal Cidadã 2025.
+
+**4. Problemas encontrados:**
+
+- Faltam informações sobre a validade da Instrução Normativa.
+- Não há informações sobre a responsabilidade de divulgar os nomes dos contemplados.
+- A Instrução Normativa não especifica como os prêmios serão distribuídos.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Será realizado, no dia 04 de dezembro de 2025 o sorteio de prêmios no âmbito do Programa de Estímulo à Cidadania Fiscal do Estado de Alagoas.
+- Art. 2º: Os prêmios a serem sorteados terão os seguintes valores.
+- Art. 3º: Participará do sorteio de prêmios o consumidor, pessoa natural ou entidade alagoana de assistência social, cadastrado no Programa de Estímulo à Cidadania Fiscal do Estado de Alagoas.
+
+**6. Contagem:**
+
+- Artigos: 10
+- Parágrafos: 22
+- Incisos: 12
+- Anexos: 0
