@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Portaria nº 1495
+
+**Data e Estado:** 2025-08-01, Estado de Alagoas
+
+**Ementa Resumida:** Designa os líderes de projetos do Projeto de Modernização da Gestão Fiscal - PROFISCO II no âmbito da Secretaria de Estado da Fazenda.
+
+**Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+- **Artigos:** 4
+- **Parágrafos:** 11
+- **Incisos:** 1
+- **Anexos:** 1
+
+**Observações:** O documento apresenta uma estrutura clara e organizada, com uma ementa resumida e uma lista de líderes de projetos designados. Além disso, o documento apresenta uma data de publicação e uma data de republicação.
