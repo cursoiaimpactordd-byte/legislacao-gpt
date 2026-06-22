@@ -1,0 +1,33 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 1950
+
+**2. Data e Estado:** 2025-10-21, Estado de Alagoas
+
+**3. Ementa Resumida:** Institui Grupo de Trabalho para definir estratégias e adaptar a Secretaria de Estado da Fazenda às mudanças promovidas pela Reforma Tributária.
+
+**4. Problemas Encontrados:**
+
+- Mudanças na legislação tributária
+- Necessidade de reestruturar a Secretaria da Fazenda
+- Capacitação dos servidores
+- Integração com os municípios
+- Divulgação das novas normas para contribuintes
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Fica instituído Grupo de Trabalho (GT) com o objetivo de definir estratégias e adaptar a Secretaria de Estado de Fazenda às mudanças promovidas pela Reforma Tributária.
+- Art. 2º: O GT a que se refere o art. 1º tem como objetivos específicos:
+ + Mapear os impactos das mudanças decorrentes da reforma tributária
+ + Apresentar estratégias e propostas para adequação da legislação estadual
+ + Monitorar o andamento das adequações em curso
+ + Orientar a capacitação dos servidores
+ + Promover eventos internos e externos para divulgação das novas normas
+ + Implementar mecanismos de comunicação e de integração com os municípios
+
+**6. Contagem:**
+
+- Artigos: 4
+- Parágrafos: 6
+- Incisos: 6
+- Anexos: 0
