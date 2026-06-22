@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Portaria nº 118
+
+**Data e Estado:** 2025-01-08, Estado de Alagoas
+
+**Ementa Resumida:** Altera a Portaria SEF nº 1752, de 01 de agosto de 2023, que designa os titulares dos Grupos de Trabalho - GTS, para desempenho de suas atribuições no âmbito da Comissão Técnica Permanente do ICMS - COTEPE/ICMS, e do Conselho Nacional de Política Fazendária - CONFAZ.
+
+**Problemas Encontrados:** Nenhum problema encontrado.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+- Artigos: 4
+- Parágrafos: 1
+- Incisos: 1
+- Anexos: 1
+
+**Observações:** O documento apresenta uma estrutura clara e organizada, com uma ementa resumida e uma lista de alterações nos Grupos de Trabalho - GTS. A contagem de artigos, parágrafos e incisos é precisa, mas a contagem de anexos pode ser considerada imprecisa, pois o documento apresenta apenas um anexo único.
