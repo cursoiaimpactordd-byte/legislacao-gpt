@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 1
+
+**2. Data e Estado:** 2025-01-03, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Portaria/SEFAZ Nº 2049/2024, designando servidores fiscais para setores e grupos de trabalho.
+
+**4. Problemas Encontrados:** Nenhum problema significativo foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificado que os trechos do documento estão corretos e coerentes.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 4
+- **Incisos:** 4
+- **Anexos:** 0
+
+**Observações:** O documento apresenta uma estrutura clara e organizada, com uma linguagem simples e fácil de entender. A contagem de artigos, parágrafos e incisos foi realizada com precisão.
