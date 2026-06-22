@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 1516
+
+**2. Data e Estado:** 2025-08-08, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Portaria SEF nº 2.691, de 30 de novembro de 2023, que estabelece procedimentos relativos à destinação de mercadorias ou bens abandonados perante a Administração Tributária.
+
+**4. Problemas Encontrados:**
+
+- A Portaria altera o § 4º do art. 2º da Portaria SEF nº 2.691, de 30 de novembro de 2023.
+- A presunção de abandono é aplicada à mercadoria retida que não tenha sido retirada pelo contribuinte no prazo de 30 dias.
+
+**5. Trechos [VERIFICAR]:**
+
+- O § 4º do art. 2º da Portaria SEF nº 2.691, de 30 de novembro de 2023, foi alterado.
+- A presunção de abandono é aplicada à mercadoria retida que não tenha sido retirada pelo contribuinte no prazo de 30 dias.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 4
+- Incisos: 1
+- Anexos: 0
