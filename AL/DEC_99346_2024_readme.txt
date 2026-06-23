@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 99346
+
+**2. Data e Estado:** 2024-09-23, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Regulamento do ICMS, aprovado pelo Decreto Estadual nº 35.245, de 26 de dezembro de 1991, e outros decretos estaduais.
+
+**4. Problemas Encontrados:**
+
+- Truncamento de texto no Art. 3º.
+- Ausência de informações sobre a justificativa para as alterações.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Acrescenta inciso XXVIII ao art. 12 do Regulamento do ICMS.
+- Art. 2º: Acrescenta inciso III ao § 4º do art. 2º do anexo XXII do Decreto Estadual nº 90.309.
+- Art. 3º: Acrescenta dispositivos ao Decreto Estadual nº 59.991.
+- Art. 4º: Acrescenta inciso III ao art. 6º do Decreto Estadual nº 1.897.
+
+**6. Contagem:**
+
+- Artigos: 4
+- Parágrafos: 14
+- Incisos: 9
+- Anexos: 1
