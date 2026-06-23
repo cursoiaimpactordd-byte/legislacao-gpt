@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 100386
+
+**2. Data e Estado:** 23 de dezembro de 2024, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Regulamento do ICMS, aprovado pelo Decreto Estadual nº 35.245, de 26 de dezembro de 1991, relativamente à redução da base de cálculo do ICMS nas operações de importações realizadas por remessas postais ou expressas.
+
+**4. Problemas Encontrados:** Nenhum problema foi identificado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 2
+- Anexos: 1
