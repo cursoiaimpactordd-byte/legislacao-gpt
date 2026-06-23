@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 99348
+
+**2. Data e Estado:** 2024-09-23, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Anexo I do Regulamento do ICMS, aprovado pelo Decreto Estadual nº 35.245, de 26 de dezembro de 1991, relativamente à isenção do imposto na saída de mercadoria de produção própria promovida por instituição de assistência social e educação.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 5
+- **Incisos:** 43 (no item 43 da Parte I do Anexo I)
+- **Anexos:** 1 (Anexo I do Regulamento do ICMS)
