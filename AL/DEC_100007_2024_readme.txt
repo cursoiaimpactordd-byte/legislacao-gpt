@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 100007
+
+**2. Data e Estado:** 2024-11-19, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede incentivo local à empresa Energy Engenharia Ltda - Filial 03 Murici e dá outras providências.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 1
+- Incisos: 7
+- Anexos: 0
+
+**Observações:**
+
+- O documento é um decreto do Governo do Estado de Alagoas.
+- O decreto concede incentivo local à empresa Energy Engenharia Ltda - Filial 03 Murici.
+- O decreto entra em vigor na data da sua publicação.
