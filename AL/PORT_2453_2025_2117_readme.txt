@@ -1,0 +1,22 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 2453
+
+**2. Data e Estado:** 2025-12-30, Estado de Alagoas
+
+**3. Ementa Resumida:** Designa servidores para compor a comissão avaliadora de propostas do Projeto de Modernização da Gestão Fiscal - PROFISCO II.
+
+**4. Problemas Encontrados:** Nenhum problema relevante encontrado.
+
+**5. Trechos [VERIFICAR]:**
+
+- O texto não substitui o publicado no DOE.
+- A Portaria entra em vigor na data de sua publicação.
+- A Secretaria de Estado da Fazenda é responsável pela publicação.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 2
+- Anexos: 0
