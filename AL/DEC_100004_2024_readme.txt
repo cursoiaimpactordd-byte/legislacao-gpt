@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número**: Decreto nº 100004
+
+**2. Data e Estado**: 2024-11-19, Estado de Alagoas
+
+**3. Ementa Resumida**: Sabor Mais Alimentos LTDA. concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa Sabor Mais Alimentos LTDA.
+
+**4. Problemas Encontrados**: Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]**: Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos**: 7
+- **Parágrafos**: 1
+- **Incisos**: 7
+- **Anexos**: 0
