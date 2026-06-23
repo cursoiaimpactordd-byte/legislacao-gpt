@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Decreto nº 100003
+
+**2. Data e estado:** 2024-11-19, Estado de Alagoas
+
+**3. Ementa resumida:** Concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa Nuance Tintas LTDA.
+
+**4. Problemas encontrados:**
+
+- Não há problemas encontrados no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- O Decreto é composto por 7 artigos.
+- O Decreto entra em vigor na data de sua publicação (Art. 6º).
+- A empresa perderá os benefícios concedidos caso venha a infringir as normas estabelecidas na legislação (Art. 2º).
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 14
+- Incisos: 7
+- Anexos: 0
