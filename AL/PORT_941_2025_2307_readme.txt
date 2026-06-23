@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 941
+
+**2. Data e Estado:** 2025-05-21, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre os critérios a serem utilizados nos rodízios nos postos fiscais e dá outras providências.
+
+**4. Problemas Encontrados:** Nenhum problema significativo foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho foi verificado como anormal.
+
+**6. Contagem:**
+
+- **Artigos:** 5
+- **Parágrafos:** 7
+- **Incisos:** 12
+- **Anexos:** 0
+
+**7. Outras Informações:**
+
+- O documento foi atualizado em 2025-12-05.
+- A Portaria foi publicada no DOE em 2025-05-22.
+- A Portaria foi assinada pela Secretária de Estado da Fazenda, Renata dos Santos.
