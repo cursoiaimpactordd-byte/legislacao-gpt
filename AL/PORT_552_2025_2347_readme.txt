@@ -1,0 +1,22 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 552
+
+**2. Data e Estado:** 2025-03-14, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre a definição de indicadores e metas do Incentivo da Relação Fisco-Contribuinte - IMFC.
+
+**4. Problemas Encontrados:**
+
+- Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- Verificar a consistência entre as metas anuais e quadrimestrais apresentadas no Anexo Único.
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 4
+- Incisos: 3
+- Anexos: 1
