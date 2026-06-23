@@ -1,0 +1,29 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 97752
+
+**2. Data e Estado:** 2024-06-14, Estado de Alagoas
+
+**3. Ementa Resumida:** Concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à CAPETRO ASFALTOS LTDA.
+
+**4. Problemas Encontrados:**
+
+- Ausência de informações sobre o Processo Administrativo nº E:02900.0000001627/2023.
+- Referências a leis e decretos sem números específicos.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Concede incentivos fiscais à CAPETRO ASFALTOS LTDA.
+- Art. 2º: A empresa perderá os benefícios caso venha a infringir as normas estabelecidas.
+- Art. 3º: A SEDICS e a SEFAZ adotarão os procedimentos operacionais necessários.
+- Art. 4º: A utilização dos benefícios fiscais passa a vigorar a partir do mês subsequente à publicação.
+- Art. 5º: O prazo de duração dos benefícios fiscais será estabelecido conforme previsto na Lei Complementar Federal nº 160 e no Convênio ICMS 190.
+- Art. 6º: Este Decreto entra em vigor na data de sua publicação.
+- Art. 7º: Revogam-se as disposições em contrário.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 0 (apenas artigos)
+- Incisos: 0 (apenas artigos)
+- Anexos: 0
