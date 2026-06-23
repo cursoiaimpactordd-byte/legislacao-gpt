@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Decreto nº 97754
+
+**2. Data e estado:** 2024-06-14, Estado de Alagoas
+
+**3. Ementa resumida:** Concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa Mundial Indústria Metalúrgica LTDA.
+
+**4. Problemas encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: Concede incentivo fiscal ao empresa Mundial Indústria Metalúrgica LTDA.
+- Art. 2º: A empresa perderá os benefícios caso venha a infringir as normas estabelecidas na legislação.
+- Art. 3º: A SEDICS e a SEFAZ adotarão os procedimentos operacionais necessários à execução do Decreto.
+- Art. 4º: A utilização dos benefícios fiscais passa a vigorar a partir do mês subsequente à publicação do Decreto.
+- Art. 5º: O prazo de duração dos benefícios fiscais será estabelecido conforme previsto na Lei Complementar Federal nº 160 e no Convênio ICMS 190.
+- Art. 6º: O Decreto entra em vigor na data de sua publicação.
+- Art. 7º: Revogam-se as disposições em contrário.
+
+**6. Contagem:**
+
+- Artigos: 7
+- Parágrafos: 0 (apenas artigos)
+- Incisos: 0 (apenas artigos)
+- Anexos: 0 (nenhum anexo encontrado)
