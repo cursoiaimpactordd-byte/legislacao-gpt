@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 100384
+
+**Data e Estado:** 2024-12-23, Estado de Alagoas
+
+**Ementa Resumida:** Dispõe sobre a remessa de mercadorias entre estabelecimentos de mesma titularidade, nos termos do Convênio ICMS nº 109, de 3 de outubro de 2024, com alterações promovidas pelo Convênio ICMS nº 124, de 25 de outubro de 2024.
+
+**Problemas Encontrados:** Nenhum problema encontrado.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+- Artigos: 11
+- Parágrafos: 6
+- Incisos: 5
+- Anexos: 0
+
+**Observações:** O documento apresenta 11 artigos, 6 parágrafos e 5 incisos. Não há anexos. O texto apresenta uma estrutura clara e organizada, com uma ementa resumida e um resumo dos problemas encontrados.
