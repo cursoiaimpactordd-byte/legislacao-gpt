@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 99344
+
+**Data e Estado:** 2024-09-23, Estado de Alagoas
+
+**Ementa Resumida:** Altera o Regulamento do ICMS para implementar disposições dos Convênios ICMS e do Ajuste SINIEF.
+
+**Problemas Encontrados:** Nenhum problema encontrado.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+- **Artigos:** 5
+- **Parágrafos:** 7
+- **Incisos:** 13
+- **Anexos:** 1
+
+**Observações:** O documento apresenta uma estrutura clara e organizada, com uma ementa resumida e uma lista de artigos e incisos que detalham as alterações ao Regulamento do ICMS.
