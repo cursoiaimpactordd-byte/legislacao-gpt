@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 99347
+
+**2. Data e Estado:** 23 de setembro de 2024, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera o Decreto Estadual nº 38.394, de 24 de maio de 2000, que regulamenta a concessão de incentivos do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 3
+- Incisos: 1
+- Anexos: 1
