@@ -1,0 +1,22 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 100008
+
+**Data e Estado:** 2024-11-19, Estado de Alagoas
+
+**Ementa Resumida:** Concede incentivos fiscais do Programa de Desenvolvimento Integrado do Estado de Alagoas - PRODESIN à empresa MC3 IMÓVEIS LTDA.
+
+**Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**Trechos [VERIFICAR]:**
+
+- O Decreto foi publicado no DOE em 2024-11-21.
+- A empresa MC3 IMÓVEIS LTDA. foi concedida os incentivos fiscais do PRODESIN.
+- A utilização dos benefícios fiscais passa a vigorar a partir do mês subsequente à publicação do Decreto.
+
+**Contagem:**
+
+- Artigos: 7
+- Parágrafos: 1
+- Incisos: 7
+- Anexos: 0
