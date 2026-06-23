@@ -1,0 +1,22 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 259
+
+**2. Data e Estado:** 2025-01-30, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Portaria/SEFAZ N.º 1204/2020, designando servidores responsáveis pelo Programa Projeto de Modernização da Gestão Fiscal do Estado de Alagoas - PROFISCO II AL.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:**
+
+- A Portaria altera a Portaria/SEFAZ N.º 1204/2020.
+- O Programa Projeto de Modernização da Gestão Fiscal - PROFISCO II busca financiar projetos de investimento para a sustentabilidade fiscal.
+- A Portaria designa servidores responsáveis pelo Programa PROFISCO II AL.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 1
+- Anexos: 0
