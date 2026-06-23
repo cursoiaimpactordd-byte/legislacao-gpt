@@ -1,0 +1,23 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 260
+
+**2. Data e Estado:** 2025-01-31, Estado de Alagoas
+
+**3. Ementa Resumida:** Designa servidores para compor a comissão avaliadora de propostas do projeto de modernização da gestão fiscal - Profisco II.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:**
+
+- A SECRETÁRIA DE ESTADO DA FAZENDA, no uso das atribuições que lhe confere o art. 114, II, da Constituição Estadual...
+- Considerando a necessidade de abertura de propostas de Consultor Individual de Aquisições...
+- Considerando a necessidade de cumprimento do “Art. 3º” da PORTARIA/SEFAZ Nº 1313/2024;
+- RESOLVE: Art. 1º Compõem a presente comissão, os seguintes membros:...
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 1
+- Anexos: 0
