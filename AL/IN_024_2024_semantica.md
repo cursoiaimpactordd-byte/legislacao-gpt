@@ -1,0 +1,42 @@
+# Mapa Semântico para RAG — Instrução Normativa nº 024/2024 — ALAGOAS
+
+## Metadados do Mapa
+- Documento: Instrução Normativa nº 024/2024 — ALAGOAS
+- Tipo: normativo
+- Unidades citáveis identificadas: Art., §, Incisos
+- Total de temas: 2
+
+## Taxonomia de Temas
+[1] Tema 1: Códigos de Receita para Recolhimento do ICMS
+[2] Tema 2: Vigência e Entrada em Vigor da Instrução Normativa
+
+## Mapa por Tema
+
+### [1] Códigos de Receita para Recolhimento do ICMS
+**Onde na norma:** Art. 1º
+**Regras principais:**
+- Regra 1: Ficam instituídos os seguintes códigos de receitas para fins de recolhimento do ICMS referente ao frete FOB devido pela entrada interestadual sujeita ao ICMS antecipado ou substituição tributária.
+- Regra 2: Os códigos de receitas são: ICMS Antecipado - Frete FOB, FECOEP Antecipado - Frete FOB, ICMS Substituição Tributária por Operação - Frete FOB, FECOEP Substituição Tributária por Operação - Frete FOB, ICMS Antecipado com Encerramento de Tributação - Calçados - Frete FOB e FECOEP Antecipado com Encerramento de Tributação - Calçados - Frete FOB.
+**Exceções/Condições:**
+- Exceção: Não identificadas
+**Perguntas típicas para recuperação:**
+- Pergunta 1: Quais são os códigos de receita instituídos para fins de recolhimento do ICMS referente ao frete FOB?
+**Temas relacionados:** [1] Tema 2: Vigência e Entrada em Vigor da Instrução Normativa
+**Tags de busca:** códigos de receita, ICMS, frete FOB, entrada interestadual, ICMS antecipado, substituição tributária
+
+### [2] Vigência e Entrada em Vigor da Instrução Normativa
+**Onde na norma:** Art. 2º
+**Regras principais:**
+- Regra 1: Esta Instrução Normativa entra em vigor na data de sua publicação.
+**Exceções/Condições:**
+- Exceção: Não identificadas
+**Perguntas típicas para recuperação:**
+- Pergunta 1: Quando entra em vigor a Instrução Normativa nº 024/2024?
+**Temas relacionados:** [1] Tema 1: Códigos de Receita para Recolhimento do ICMS
+**Tags de busca:** vigência, entrada em vigor, publicação
+
+## Índice de Remissões Bidirecionais
+Tema: [1] Códigos de Receita para Recolhimento do ICMS ↔ Tema: [2] Vigência e Entrada em Vigor da Instrução Normativa — motivo: A vigência da Instrução Normativa é relacionada aos códigos de receita instituídos.
+
+## Índice de Anexos e Tabelas
+Nenhum anexo ou tabela foi identificado.
