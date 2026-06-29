@@ -1,0 +1,21 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 28
+
+**2. Data e Estado:** 2024-05-21, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispensa a emissão de documento fiscal na operação e na prestação de serviço de transporte relativa à remessa de mercadorias doadas para assistência a vítimas de calamidade pública.
+
+**4. Problemas Encontrados:** 
+
+- A dispensa de emissão de documento fiscal é limitada a operações e prestações de serviço de transporte relativa à remessa de mercadorias doadas para assistência a vítimas de calamidade pública.
+- A dispensa é válida apenas para mercadorias coletadas de terceiros, por contribuintes ou não, doadas para assistência a vítimas de calamidade pública em decorrência das enchentes, temporais e inundações ocorridas no Estado do Rio Grande do Sul no mês de maio de 2024.
+
+**5. Trechos [VERIFICAR]:** Não foram encontrados trechos a serem verificados.
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 7
+- Incisos: 2
+- Anexos: 1
