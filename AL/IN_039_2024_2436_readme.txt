@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 39
+
+**2. Data e Estado:** 2024-11-25, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SURE nº 13, de 20 de julho de 2023, que estabelece valores a serem utilizados como base de cálculo do ICMS devido por substituição tributária.
+
+**4. Problemas Encontrados:**
+
+- A Instrução Normativa não substitui o publicado no DOE.
+- A alteração da Instrução Normativa SURE nº 13 pode afetar a base de cálculo do ICMS devido por substituição tributária.
+
+**5. Trechos [VERIFICAR]:**
+
+- Art. 1º: A base de cálculo do ICMS devido por substituição tributária é o preço a consumidor final usualmente praticado no mercado.
+- Art. 2º: Não se aplica o previsto no art. 1º em caso de xarope ou extrato concentrado destinado ao preparo de refrigerante em máquina "pré-mix" ou "post-mix".
+
+**6. Contagem:**
+
+- Artigos: 3
+- Parágrafos: 5
+- Incisos: 10
+- Anexos: 1
