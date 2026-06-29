@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 30
+
+**2. Data e Estado:** 2024-09-25, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SURE Nº 13/2023, estabelecendo valores para ICMS devido por substituição tributária e antecipação do imposto em operações com água mineral, cerveja, chope, refrigerante, bebidas hidroeletrolíticas e energéticas.
+
+**4. Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificar a consistência entre a data de publicação e a data de entrada em vigor da Instrução Normativa.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 3
+- Anexos: 1
+
+**Observações:**
+
+- A Instrução Normativa nº 30 altera a Instrução Normativa SURE Nº 13/2023, estabelecendo valores para ICMS devido por substituição tributária e antecipação do imposto em operações com água mineral, cerveja, chope, refrigerante, bebidas hidroeletrolíticas e energéticas.
+- A Instrução Normativa entra em vigor na data de sua publicação.
+- O documento foi republicado em 09/01/2025 devido a incorreção.
