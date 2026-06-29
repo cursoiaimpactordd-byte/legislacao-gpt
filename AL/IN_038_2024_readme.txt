@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 38
+
+**2. Data e Estado:** 2024-11-25, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SURE nº 17, de 29 de setembro de 2023, que estabelece valores a serem utilizados como base de cálculo do ICMS devido por substituição tributária, e antecipação do imposto pela entrada, nas operações com água mineral.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 6
+- **Incisos:** 7
+- **Anexos:** 1
