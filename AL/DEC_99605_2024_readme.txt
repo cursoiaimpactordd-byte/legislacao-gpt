@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Decreto nº 99605
+
+**2. Data e Estado:** 2024-10-11, Estado de Alagoas
+
+**3. Ementa Resumida:** Institui o Programa Estadual de Apoio ao Comércio Atacadista de Peças e Acessórios para Motocicletas e Motonetas.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** O texto foi truncado no final do documento, portanto, é necessário verificar se há mais trechos.
+
+**6. Contagem:**
+
+- **Artigos:** 13
+- **Parágrafos:** 4
+- **Incisos:** 3
+- **Anexos:** 2
