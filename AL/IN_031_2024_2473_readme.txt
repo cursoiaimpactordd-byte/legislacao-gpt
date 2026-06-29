@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 31
+
+**2. Data e Estado:** 2024-09-25, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SURE Nº 13/2023, estabelecendo valores para cálculo do ICMS devido por substituição tributária e antecipação do imposto em operações com água mineral e bebidas.
+
+**4. Problemas Encontrados:** Nenhum problema significativo foi encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificar a consistência dos dados nos anexos da Instrução Normativa.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 3
+- Anexos: 1
+
+**7. Conclusão:** O documento é uma Instrução Normativa que altera a Instrução Normativa SURE Nº 13/2023, estabelecendo valores para cálculo do ICMS devido por substituição tributária e antecipação do imposto em operações com água mineral e bebidas. O documento é claro e conciso, com uma estrutura lógica e fácil de entender.
