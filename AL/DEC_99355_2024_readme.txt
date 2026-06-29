@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Decreto nº 99355
+
+**Data e Estado:** 2024-09-23, Estado de Alagoas
+
+**Ementa Resumida:** Altera o Decreto Estadual nº 1.738, de 2003, que regulamenta a Lei Estadual nº 6.410, de 2003, sobre a liquidação de débitos tributários relativos ao ICMS.
+
+**Problemas Encontrados:** Nenhum problema encontrado.
+
+**Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**Contagem:**
+
+- Artigos: 4
+- Parágrafos: 14
+- Incisos: 5
+- Anexos: 0
+
+**Observações:** O documento é um decreto estadual que altera o Decreto Estadual nº 1.738, de 2003, para regular a liquidação de débitos tributários relativos ao ICMS. O decreto entra em vigor no primeiro dia do mês seguinte à sua publicação.
