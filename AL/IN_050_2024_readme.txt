@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 50
+
+**2. Data e Estado:** 26 de setembro de 2024, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SEF nº 27, de 29 de maio de 2018, para implementar disposições do Ajuste SINIEF nº 13, de 5 de julho de 2024.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 4
+- **Parágrafos:** 14
+- **Incisos:** 13
+- **Anexos:** 0
+
+**Observações:** O documento é uma Instrução Normativa que altera a Instrução Normativa SEF nº 27, de 29 de maio de 2018, para implementar disposições do Ajuste SINIEF nº 13, de 5 de julho de 2024. O documento contém 4 artigos, 14 parágrafos e 13 incisos.
