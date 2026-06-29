@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 24
+
+**2. Data e Estado:** 2024-07-15, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre a instituição de códigos de receita para fins de recolhimento do ICMS referente ao frete FOB devido pela entrada interestadual sujeita ao ICMS Antecipado ou Substituição Tributária e Antecipação com Encerramento de Tributação.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 6
+- **Incisos:** 6
+- **Anexos:** 0
