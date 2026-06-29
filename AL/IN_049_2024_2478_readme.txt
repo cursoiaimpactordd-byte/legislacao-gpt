@@ -1,0 +1,26 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 49
+
+**2. Data e Estado:** 23 de setembro de 2024, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre o limite global de financiamento de projetos de incentivo ao esporte no exercício de 2024.
+
+**4. Problemas Encontrados:** Nenhum problema significativo encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Verificado que o documento está completo e não apresenta erros de formatação.
+
+**6. Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 2
+- **Incisos:** 2
+- **Anexos:** 0
+
+**7. Observações:** O documento está bem estruturado e segue o formato padrão de instruções normativas.
+
+**8. Conclusão:** O documento foi parseado com sucesso e não apresentou problemas significativos.
+
+**9. Sugestões:** Nenhuma sugestão para melhoria do documento.
+
+**10. Verificação:** O documento foi verificado e não apresenta erros de formatação.
