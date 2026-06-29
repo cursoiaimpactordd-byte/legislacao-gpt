@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Instrução Normativa nº 37
+
+**2. Data e Estado:** 2024-06-07, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Instrução Normativa SEF nº 20, de 4 de maio de 2021, para estabelecer critérios para concessão e fruição de redução de base de cálculo e diferimento de ICMS nas prestações de serviço de comunicação.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+* Artigos: 3
+* Parágrafos: 5
+* Incisos: 9
+* Anexos: 0
