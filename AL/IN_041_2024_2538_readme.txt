@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**1. Tipo e número:** Instrução Normativa nº 41
+
+**2. Data e estado:** 2024-07-08, Estado de Alagoas
+
+**3. Ementa resumida:** Altera a Instrução Normativa SEF nº 16, de 1 de abril de 2024, que regulamenta o Decreto nº 92.726, de 21 de agosto de 2023, que institui o Programa de Desenvolvimento da Indústria Leiteira no Estado de Alagoas.
+
+**4. Problemas encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 1
+- **Incisos:** 14
+- **Anexos:** 0
+
+**Observações:** O documento é uma instrução normativa que altera a Instrução Normativa SEF nº 16, de 1 de abril de 2024, e regulamenta o Decreto nº 92.726, de 21 de agosto de 2023. O documento contém 3 artigos, 1 parágrafo e 14 incisos.
