@@ -1,0 +1,20 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Portaria nº 1161
+
+**Data e Estado:** 2024-07-29, Estado de Alagoas
+
+**Ementa Resumida:** Dispõe sobre a instituição do Comitê Gestor de Segurança da Informação e Proteção de Dados da Secretaria de Estado da Fazenda de Alagoas.
+
+**Problemas Encontrados:** Não foram encontrados problemas significativos no documento.
+
+**Trechos [VERIFICAR]:** Não foram encontrados trechos a verificar.
+
+**Contagem:**
+
+- **Artigos:** 3
+- **Parágrafos:** 1
+- **Incisos:** 12
+- **Anexos:** 0
+
+**Observações:** O documento apresenta um formato claro e organizado, com uma estrutura lógica e fácil de entender. As disposições finais são claras e precisas.
