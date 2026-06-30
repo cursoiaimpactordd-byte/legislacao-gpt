@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 15
+
+**2. Data e Estado:** 2024-12-11, Estado de Alagoas
+
+**3. Ementa Resumida:** Divulga o valor do ICMS por quilograma de farinha de trigo e mistura de farinha de trigo para fins de apuração ou reapuração do imposto.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado.
+
+**5. Trechos [VERIFICAR]:** Verificar se os valores do ICMS estão corretos e se estão de acordo com o Anexo XII, Capítulo II, Art. 21, do Decreto 90.309/2023.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 4
+- Incisos: 1
+- Anexos: 1
+
+**Observações:**
+
+- O documento é uma Portaria do Estado de Alagoas.
+- A Portaria estabelece o valor do ICMS por quilograma de farinha de trigo e mistura de farinha de trigo para fins de apuração ou reapuração do imposto.
+- O documento foi publicado no DOE em 2024-12-17.
