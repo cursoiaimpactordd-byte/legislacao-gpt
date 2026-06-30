@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 1371
+
+**2. Data e Estado:** 2024-08-29, Estado de Alagoas
+
+**3. Ementa Resumida:** Altera a Portaria/SEFAZ N.º 1204/2020, designando servidores responsáveis pelo Programa Projeto de Modernização da Gestão Fiscal do Estado de Alagoas - PROFISCO II AL.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- Artigos: 2
+- Parágrafos: 5
+- Incisos: 2
+- Anexos: 0
