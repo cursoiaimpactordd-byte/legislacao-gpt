@@ -1,0 +1,24 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 1604
+
+**2. Data e Estado:** 2024-10-08, Estado de Alagoas
+
+**3. Ementa Resumida:** Dispõe sobre o controle eletrônico de jornada de trabalho dos servidores da Secretaria de Estado da Fazenda de Alagoas - SEFAZ/AL e dá outras providências.
+
+**4. Problemas Encontrados:**
+
+- Ausência de informações sobre a implementação do sistema de controle de ponto eletrônico.
+- Faltam detalhes sobre a regulamentação da modalidade de trabalho remoto.
+- Não há informações sobre a composição e funcionamento do Comitê de Gestão de Pessoas.
+
+**5. Trechos [VERIFICAR]:**
+
+- O texto foi truncado, faltando informações importantes sobre a Portaria.
+
+**6. Contagem:**
+
+- Artigos: 5
+- Parágrafos: 15
+- Incisos: 5
+- Anexos: 0
