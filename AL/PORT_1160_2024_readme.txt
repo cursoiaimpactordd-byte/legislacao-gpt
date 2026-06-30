@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 1160
+
+**2. Data e Estado:** 2024-07-29, Estado de Alagoas
+
+**3. Ementa Resumida:** Revoção da Portaria/SEFAZ Nº 448 de 07 de março de 2022, que dispõe sobre a instituição do Comitê Gestor de Segurança da Informação da Secretaria de Estado da Fazenda de Alagoas.
+
+**4. Problemas Encontrados:** Nenhum problema encontrado no documento.
+
+**5. Trechos [VERIFICAR]:** Nenhum trecho verificado.
+
+**6. Contagem:**
+
+- **Artigos:** 2
+- **Parágrafos:** 2
+- **Incisos:** 2
+- **Anexos:** 0
