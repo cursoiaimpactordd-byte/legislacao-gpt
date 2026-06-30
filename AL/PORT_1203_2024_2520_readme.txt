@@ -1,0 +1,18 @@
+**Relatório de Parsing**
+
+**Tipo e Número:** Portaria nº 1203
+
+**Data e Estado:** 2024-08-05, Estado de Alagoas
+
+**Ementa Resumida:** Designa os líderes de projetos do Projeto de Modernização da Gestão Fiscal - PROFISCO II no âmbito da Secretaria de Estado da Fazenda.
+
+**Problemas Encontrados:** Nenhum problema foi encontrado no documento.
+
+**Trechos [VERIFICAR]:** Nenhum trecho foi verificado.
+
+**Contagem:**
+
+- **Artigos:** 4
+- **Parágrafos:** 12
+- **Incisos:** 1
+- **Anexos:** 1
