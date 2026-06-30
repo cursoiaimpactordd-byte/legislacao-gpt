@@ -1,0 +1,23 @@
+**Relatório de Parsing**
+
+**1. Tipo e Número:** Portaria nº 1874
+
+**2. Data e Estado:** 2024-11-21, Estado de Alagoas
+
+**3. Ementa Resumida:** Designa os líderes de projetos do Projeto de Modernização da Gestão Fiscal - PROFISCO II no âmbito da Secretaria de Estado da Fazenda e dá outras providências.
+
+**4. Problemas Encontrados:**
+
+- A Portaria foi revogada pela Portaria/SEFAZ N.º 531/2025.
+- Existem trechos truncados no texto.
+
+**5. Trechos [VERIFICAR]:** Existem trechos truncados no texto, sugerindo a necessidade de verificar a integridade do documento.
+
+**6. Contagem:**
+
+- Artigos: 4
+- Parágrafos: 6
+- Incisos: 1
+- Anexos: 1
+- Componentes: 2
+- Líderes de Projetos: 24
