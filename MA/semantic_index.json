@@ -1,0 +1,41 @@
+[
+  {
+    "estado": "MA",
+    "estado_nome": "Maranhão",
+    "ano": "",
+    "arquivo": "tributaria_semantica.md",
+    "caminho": "MA/tributaria_semantica.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria_semantica",
+    "ementa": "",
+    "palavras_chave": [],
+    "texto_busca": "maranhao tributaria tributaria_semantica"
+  },
+  {
+    "estado": "MA",
+    "estado_nome": "Maranhão",
+    "ano": "",
+    "arquivo": "tributaria_faq.md",
+    "caminho": "MA/tributaria_faq.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria_faq",
+    "ementa": "",
+    "palavras_chave": [],
+    "texto_busca": "maranhao tributaria tributaria_faq"
+  },
+  {
+    "estado": "MA",
+    "estado_nome": "Maranhão",
+    "ano": "",
+    "arquivo": "tributaria.md",
+    "caminho": "MA/tributaria.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria",
+    "ementa": "",
+    "palavras_chave": [],
+    "texto_busca": "maranhao tributaria tributaria"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "estado": "MA",
+    "estado_nome": "Maranhão",
+    "ano": "",
+    "arquivo": "tributaria_semantica.md",
+    "caminho": "MA/tributaria_semantica.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria_semantica",
+    "ementa": "",
+    "data_publicacao": "",
+    "resumo": "",
+    "palavras_chave": [],
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "data_indexacao": "2026-07-02T14:05:41.775102"
+  },
+  {
+    "estado": "MA",
+    "estado_nome": "Maranhão",
+    "ano": "",
+    "arquivo": "tributaria_faq.md",
+    "caminho": "MA/tributaria_faq.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria_faq",
+    "ementa": "",
+    "data_publicacao": "",
+    "resumo": "",
+    "palavras_chave": [],
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "data_indexacao": "2026-07-02T14:05:41.774161"
+  },
+  {
+    "estado": "MA",
+    "estado_nome": "Maranhão",
+    "ano": "",
+    "arquivo": "tributaria.md",
+    "caminho": "MA/tributaria.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria",
+    "ementa": "",
+    "data_publicacao": "",
+    "resumo": "",
+    "palavras_chave": [],
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "data_indexacao": "2026-07-02T14:05:41.773372"
+  }
+]

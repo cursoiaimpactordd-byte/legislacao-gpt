@@ -1,0 +1,50 @@
+[
+  {
+    "estado": "PE",
+    "estado_nome": "Pernambuco",
+    "ano": "",
+    "arquivo": "tributaria_semantica.md",
+    "caminho": "PE/tributaria_semantica.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria_semantica",
+    "ementa": "",
+    "data_publicacao": "",
+    "resumo": "",
+    "palavras_chave": [],
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "data_indexacao": "2026-07-02T14:05:41.769629"
+  },
+  {
+    "estado": "PE",
+    "estado_nome": "Pernambuco",
+    "ano": "",
+    "arquivo": "tributaria_faq.md",
+    "caminho": "PE/tributaria_faq.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria_faq",
+    "ementa": "",
+    "data_publicacao": "",
+    "resumo": "",
+    "palavras_chave": [],
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "data_indexacao": "2026-07-02T14:05:41.769303"
+  },
+  {
+    "estado": "PE",
+    "estado_nome": "Pernambuco",
+    "ano": "",
+    "arquivo": "tributaria.md",
+    "caminho": "PE/tributaria.md",
+    "tipo": "TRIBUTARIA",
+    "numero": "",
+    "titulo": "tributaria",
+    "ementa": "",
+    "data_publicacao": "",
+    "resumo": "",
+    "palavras_chave": [],
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "data_indexacao": "2026-07-02T14:05:41.768936"
+  }
+]
