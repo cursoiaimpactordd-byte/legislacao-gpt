@@ -4,7 +4,7 @@ Estado: **PE - Pernambuco**
 
 Total de documentos indexados: **3**
 
-Última atualização do índice: **24/09/2026 11:00:18**
+Última atualização do índice: **24/09/2026 16:08:16**
 
 ## Documentos por ano
 
