@@ -4,7 +4,7 @@ Estado: **MA - Maranhão**
 
 Total de documentos indexados: **3**
 
-Última atualização do índice: **26/08/2026 08:22:10**
+Última atualização do índice: **24/09/2026 11:00:18**
 
 ## Documentos por ano
 
