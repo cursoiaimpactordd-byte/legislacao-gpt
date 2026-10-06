@@ -4,7 +4,7 @@ Estado: **AL - Alagoas**
 
 Total de documentos indexados: **2086**
 
-Última atualização do índice: **24/09/2026 16:08:16**
+Última atualização do índice: **06/10/2026 09:46:34**
 
 ## Documentos por ano
 
